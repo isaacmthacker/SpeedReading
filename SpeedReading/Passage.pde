@@ -3,6 +3,10 @@ public class Passage extends DisplayMethod {
     document = doc;
   }
 
+  void Resize(float newX, float newY, float newW, float newH) {
+    w = newW;
+    h = newH;
+  }
 
   void Display() {
   }
@@ -16,4 +20,6 @@ public class Passage extends DisplayMethod {
   }
   void Resize() {
   }
+     void LimitTextToDisplayArea() {
+   }
 }

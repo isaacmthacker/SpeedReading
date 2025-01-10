@@ -26,14 +26,21 @@ int numLines = 5;
 int numWordsInLine = 5;
 int charsInLine = 0;
 
-ArrayList<String> document = new ArrayList<String>();
-int curIndex = 0;
-String curLine = "";
-
 boolean PAUSED = false;
 final String PAUSED_TEXT = "Paused";
 
-CrazyLine cl;
+final float leftControlSize = 0.1;
+final float bottomControlSize = 0.1;
+
+
+DisplayMethod display;
+CrazyLine crazyLine;
+NormalLine normalLine;
+Passage passage;
+
+
+DisplayControl displayControl;
+SingleLineControl singleLineControl;
 
 //=====================================================================
 
@@ -41,22 +48,37 @@ CrazyLine cl;
 //TODO: Maybe tie back/next to paragraphs?
 //  for line by line, can have queue of seen indicies and just rebuild the line
 void DrawControls() {
-  //fill(0);
   noFill();
-  ellipse(width/2.0, height-30, 30, 30);
+  String pauseText;
   if (PAUSED) {
-    text("Resume", width/2.0, height-30);
+    pauseText = "Resume";
   } else {
-    text("Pause", width/2.0, height-30);
+    pauseText = "Pause";
   }
+  text(pauseText, width/2.0 - textWidth(pauseText)/2.0, height-(height*bottomControlSize)/2.0);
+  
+  //Bottom display control
+  rect(width*leftControlSize, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), height);
+  //left display control
+  displayControl.Display();
+
+
+  //TODO:
+  //pause/play, back, forward
+  //speed, font size, method
+  //same control for crazy and normal lines
+  //different control for passage
+  //add draw space for each method
+  //restart
 }
 
 //Reads document with content in it
 //Splits into individual words
 //TODO: Better paragraph splits
-void ReadFile() {
+ArrayList<String> ReadFile() {
   println("ReadFile");
   int paragraphs = 0;
+  ArrayList<String> document = new ArrayList<String>();
   do {
     try {
       line = reader.readLine();
@@ -79,58 +101,17 @@ void ReadFile() {
     }
   } while (line != null);
   println("Paragraphs: " + paragraphs);
+  return document;
 }
 
-//Builds the line from the document
-void BuildLine() {
-  //Get numWordsInLine from document array
-  //curLine = "";
-  //Going by num of words in a line
-  //int end = min(curIndex+numWordsInLine, document.size());
-  //for(int i = curIndex; i < end; ++i) {
-  //  curLine += document.get(i);
-  //  if(i != end-1) {
-  //    curLine += " ";
-  //  }
-  //}
-  //println(curLine);
-  //println(curLine.length());
-  ////Advance cur index
-  //curIndex = end;
-
-  //want to keep font size the same
-
-  curLine = "";
-  while (curIndex < document.size()) {
-    if (textWidth(curLine + document.get(curIndex)) < width) {
-      curLine += document.get(curIndex) + " ";
-      ++curIndex;
-    } else {
-      break;
-    }
-  }
-  println("Curline: " + curLine);
-}
-
-//1-second timer
 //Tied to FPS
-//Builds the line to be displayed
 void SecondDelay() {
   ++frameCounter;
   if (frameCounter >= frameUpdate) {
     frameCounter = 0;
-    //Once we hit our desired time, create a new line to be drawn
-    BuildLine();
-    cl.GetNextChunk();
+    //Once we hit our desired time, update line being drawn
+    display.GetNextChunk();
   }
-}
-
-//Draws the current line of text
-void DrawTextLine() {
-  if (curLine.length() > 0) {
-    text(curLine, width/2.0 - textWidth(curLine)/2.0, height/2.0);
-  }
-  cl.Display();
 }
 
 //Draws pause splash screen
@@ -148,23 +129,30 @@ void CalculateDrawingTime() {
 void setup() {
   size(800, 800);
   windowResizable(true);
-  println("hello");
-  background(0);
   frameRate(FPS);
   CalculateDrawingTime();
-  reader = createReader("C:\\temp\\2025-01-09-Test\\SpeedReading\\SpeedReading\\cats.txt");
-  ReadFile();
+  //reader = createReader("cats.txt");
+  reader = createReader("abstract.txt");
+  ArrayList<String> document = ReadFile();
   println("Total words in document: " + document.size());
-  textSize(30);
   
-  cl = new CrazyLine(document);
+  int fontSize = 30;
+  PFont myFont = createFont("C:\\Users\\isaac\\Desktop\\Processing\\SpeedReading\\SpeedReading\\opendyslexic-0.910.12-rc2-2019.10.17\\OpenDyslexic-Regular.otf", 30);
+  textFont(myFont);
+
+  SingleLineControl singleLineControl = new SingleLineControl(0, 0, width*leftControlSize, height);
+  displayControl = singleLineControl;
+
+  crazyLine = new CrazyLine(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), fontSize);
+  normalLine = new NormalLine(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), fontSize);
+  passage = new Passage(document);
+  //display = normalLine;
+  display = crazyLine;
 }
 
 //Draw loop
 void draw() {
-  background(0);
-  fill(255);
-  rect(0, 0, width, height);
+  background(255);
   fill(0);
   DrawControls();
   if (!PAUSED) {
@@ -172,21 +160,17 @@ void draw() {
   } else {
     DrawPauseScreen();
   }
-  DrawTextLine();
+  //Run the display method
+  display.Display();
 }
 
 //On mouse click
 void mouseClicked() {
   PAUSED = !PAUSED;
-  if (mouseButton == RIGHT) {
-    println("RIGHT BUTTON CLICKED");
-  }
 }
 
 void windowResized() {
-  println("RESIZES!!");
+  println("Window resized");
+  //todo: check this matches initialization
+  display.Resize(width*0.1, 0, width*0.9, height*0.9);
 }
-
-//windowResized
-
-//https://processing.org/reference/windowResized_.html
