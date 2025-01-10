@@ -3,17 +3,16 @@ int frameCounter = 0;
 int frameUpdate = 0;
 //Word change speed - how often to update line on page to start
 float UpdateTime = 1.5; //update every 2 seconds
+float UpdateTimeStep = 0.25;
 
 
 //TODO: Move to separate files
 //TODO: how to easily toggle between display methods?
 //    split into classes with inheritance?
 //TODO: Go by words per minute
-//TODO: Dsylexic font
 //TODO: Handle resizing
 //    specific option to resize?
 //    why could not stretch window?
-//TODO: make things scalable
 //TODO: Restart with chosen method
 
 //TODO: Line by line in middle
@@ -22,9 +21,6 @@ float UpdateTime = 1.5; //update every 2 seconds
 
 BufferedReader reader;
 String line = null;
-int numLines = 5;
-int numWordsInLine = 5;
-int charsInLine = 0;
 
 boolean PAUSED = false;
 final String PAUSED_TEXT = "Paused";
@@ -37,6 +33,8 @@ DisplayMethod display;
 CrazyLine crazyLine;
 NormalLine normalLine;
 Passage passage;
+DisplayMethod[] methods;
+int methodIndex = 0;
 
 
 DisplayControl displayControl;
@@ -56,7 +54,7 @@ void DrawControls() {
     pauseText = "Pause";
   }
   text(pauseText, width/2.0 - textWidth(pauseText)/2.0, height-(height*bottomControlSize)/2.0);
-  
+
   //Bottom display control
   rect(width*leftControlSize, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), height);
   //left display control
@@ -135,7 +133,7 @@ void setup() {
   reader = createReader("abstract.txt");
   ArrayList<String> document = ReadFile();
   println("Total words in document: " + document.size());
-  
+
   int fontSize = 30;
   PFont myFont = createFont("C:\\Users\\isaac\\Desktop\\Processing\\SpeedReading\\SpeedReading\\opendyslexic-0.910.12-rc2-2019.10.17\\OpenDyslexic-Regular.otf", 30);
   textFont(myFont);
@@ -145,8 +143,10 @@ void setup() {
 
   crazyLine = new CrazyLine(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), fontSize);
   normalLine = new NormalLine(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), fontSize);
-  passage = new Passage(document);
-  //display = normalLine;
+  passage = new Passage(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), fontSize);
+
+  methods = new DisplayMethod[] { crazyLine, normalLine, passage };
+
   display = crazyLine;
 }
 
@@ -162,6 +162,10 @@ void draw() {
   }
   //Run the display method
   display.Display();
+  text("Delay: " + UpdateTime + "s", width*(leftControlSize/2.0), height-(height*bottomControlSize)/2.0);
+
+  String modeStr = "Mode: " + methodIndex;
+  text(modeStr, width - textWidth(modeStr), height-(height*bottomControlSize)/2.0);
 }
 
 //On mouse click
@@ -169,8 +173,40 @@ void mouseClicked() {
   PAUSED = !PAUSED;
 }
 
+void keyPressed() {
+  if (key == 'm') {
+    println("Changing mode");
+    methodIndex = (methodIndex + 1) % methods.length;
+    display = methods[methodIndex];
+  }
+  if (key == 'r') {
+    //restart
+    display.Restart();
+  }
+  println(keyCode);
+  if (keyCode == 38) {
+    //UP
+    UpdateTime += UpdateTimeStep;
+    CalculateDrawingTime();
+  }
+  if (keyCode == 40) {
+    //DOWN
+    UpdateTime -= UpdateTimeStep;
+    UpdateTime = max(UpdateTimeStep, UpdateTime);
+    CalculateDrawingTime();
+  }
+  if(keyCode == 32) {
+    //SPACE
+      PAUSED = !PAUSED;
+  }
+}
+
 void windowResized() {
   println("Window resized");
   //todo: check this matches initialization
-  display.Resize(width*0.1, 0, width*0.9, height*0.9);
+
+  //Update all methods, not just active one
+  for (int i = 0; i < methods.length; ++i) {
+    methods[i].Resize(width*0.1, 0, width*0.9, height*0.9);
+  }
 }
