@@ -23,7 +23,7 @@ public class Passage extends DisplayMethod {
   void Display() {
     for (int i = 0; i < numLines; ++i) {
       textSize(fontSize);
-      text(lines[i], x - textWidth(lines[i])/2.0, y + fontSize*i);
+      text(lines[i], x - textWidth(lines[i])/2.0, y + (2.0*fontSize*i));
     }
   }
 

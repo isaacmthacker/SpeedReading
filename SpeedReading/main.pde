@@ -129,8 +129,8 @@ void setup() {
   windowResizable(true);
   frameRate(FPS);
   CalculateDrawingTime();
-  //reader = createReader("cats.txt");
-  reader = createReader("abstract.txt");
+  reader = createReader("cats.txt");
+  //reader = createReader("abstract.txt");
   ArrayList<String> document = ReadFile();
   println("Total words in document: " + document.size());
 
@@ -195,9 +195,9 @@ void keyPressed() {
     UpdateTime = max(UpdateTimeStep, UpdateTime);
     CalculateDrawingTime();
   }
-  if(keyCode == 32) {
+  if (keyCode == 32) {
     //SPACE
-      PAUSED = !PAUSED;
+    PAUSED = !PAUSED;
   }
 }
 
