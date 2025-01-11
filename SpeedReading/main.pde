@@ -2,7 +2,7 @@ final int FPS = 60;
 int frameCounter = 0;
 int frameUpdate = 0;
 //Word change speed - how often to update line on page to start
-float UpdateTime = 1.5; //update every 2 seconds
+float UpdateTime = 3.0; //update every 2 seconds
 float UpdateTimeStep = 0.25;
 
 
@@ -24,6 +24,8 @@ String line = null;
 
 boolean PAUSED = false;
 final String PAUSED_TEXT = "Paused";
+
+boolean TIMER_ENABLED = true;
 
 final float leftControlSize = 0.1;
 final float bottomControlSize = 0.1;
@@ -47,13 +49,17 @@ SingleLineControl singleLineControl;
 //  for line by line, can have queue of seen indicies and just rebuild the line
 void DrawControls() {
   noFill();
-  String pauseText;
-  if (PAUSED) {
-    pauseText = "Resume";
+  String timerStatusText;
+  if (TIMER_ENABLED) {
+    if (PAUSED) {
+      timerStatusText = "Resume";
+    } else {
+      timerStatusText = "Pause";
+    }
   } else {
-    pauseText = "Pause";
+    timerStatusText = "Disabled";
   }
-  text(pauseText, width/2.0 - textWidth(pauseText)/2.0, height-(height*bottomControlSize)/2.0);
+  text(timerStatusText, width/2.0 - textWidth(timerStatusText)/2.0, height-(height*bottomControlSize)/2.0);
 
   //Bottom display control
   rect(width*leftControlSize, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), height);
@@ -129,13 +135,14 @@ void setup() {
   windowResizable(true);
   frameRate(FPS);
   CalculateDrawingTime();
-  reader = createReader("cats.txt");
+  reader = createReader("news.txt");
+  //TODO: Add error message if cannot open file
   //reader = createReader("abstract.txt");
   ArrayList<String> document = ReadFile();
   println("Total words in document: " + document.size());
 
   int fontSize = 30;
-  PFont myFont = createFont("C:\\Users\\isaac\\Desktop\\Processing\\SpeedReading\\SpeedReading\\opendyslexic-0.910.12-rc2-2019.10.17\\OpenDyslexic-Regular.otf", 30);
+  PFont myFont = createFont("opendyslexic-0.910.12-rc2-2019.10.17\\OpenDyslexic-Regular.otf", 30);
   textFont(myFont);
 
   SingleLineControl singleLineControl = new SingleLineControl(0, 0, width*leftControlSize, height);
@@ -156,7 +163,9 @@ void draw() {
   fill(0);
   DrawControls();
   if (!PAUSED) {
-    SecondDelay();
+    if (TIMER_ENABLED) {
+      SecondDelay();
+    }
   } else {
     DrawPauseScreen();
   }
@@ -170,7 +179,15 @@ void draw() {
 
 //On mouse click
 void mouseClicked() {
-  PAUSED = !PAUSED;
+  if (TIMER_ENABLED) {
+    PAUSED = !PAUSED;
+  } else {
+    display.GetNextChunk();
+  }
+}
+
+void ForceDisplayUpdate() {
+  frameCounter = frameUpdate;
 }
 
 void keyPressed() {
@@ -182,6 +199,16 @@ void keyPressed() {
   if (key == 'r') {
     //restart
     display.Restart();
+    //Force immediate update
+    ForceDisplayUpdate();
+    if (PAUSED) {
+      //Force display to show beginning
+      display.GetNextChunk();
+    }
+  }
+  if (key == 't') {
+    TIMER_ENABLED = !TIMER_ENABLED;
+    PAUSED = false;
   }
   println(keyCode);
   if (keyCode == 38) {
@@ -197,7 +224,18 @@ void keyPressed() {
   }
   if (keyCode == 32) {
     //SPACE
-    PAUSED = !PAUSED;
+    if (TIMER_ENABLED) {
+      PAUSED = !PAUSED;
+    }
+  }
+  if (keyCode == 37) {
+    //TODO: See why display isn't updating if timer is disabled
+    display.Back();
+    ForceDisplayUpdate();
+  }
+  if (keyCode == 39) {
+    display.GetNextChunk();
+    ForceDisplayUpdate();
   }
 }
 

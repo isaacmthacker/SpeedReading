@@ -7,6 +7,9 @@ public class CrazyLine extends DisplayMethod {
     textSize(fontSize);
 
     curLine = "";
+    history = new Stack<Integer>();
+    //Always make sure start is in the stack
+    history.push(0);
   }
 
   void Resize(float newX, float newY, float newW, float newH) {
@@ -35,29 +38,45 @@ public class CrazyLine extends DisplayMethod {
   }
 
   void GetNextChunk() {
-    println("Get next chunk");
+    //println("Get next chunk");
+    if (history.peek() != curIndex) {
+      history.push(curIndex);
+    }
+    println(history);
     curLine = "";
+    boolean lineUpdated = false;
     while (curIndex < document.size()) {
       if (textWidth(curLine + document.get(curIndex)) < idealLength) {
         curLine += document.get(curIndex) + " ";
         ++curIndex;
+        lineUpdated = true;
       } else {
         break;
       }
     }
+    if (!lineUpdated) {
+      curLine = "All done :)";
+    }
     println(curLine);
     x = random(w);
     y = random(h);
-    
-    println("Before limit: ", x, y);
+
+    //println("Before limit: ", x, y);
 
     LimitTextToDisplayArea();
-    println("After limit: ", x, y);
+    //println("After limit: ", x, y);
 
-    println(x, y);
+    //println(x, y);
   }
   void Back() {
-    println("Back Not implemented");
+    if (!history.empty()) {
+      history.pop();
+      //Ensure something is left in the stack
+      if (history.empty()) {
+        history.push(0);
+      }
+      curIndex = history.peek();
+    }
   }
   void Forward() {
     println("Forward Not implemented");
