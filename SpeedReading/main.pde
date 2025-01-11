@@ -123,6 +123,17 @@ void CalculateDrawingTime() {
   frameUpdate = int(float(FPS) * UpdateTime);
 }
 
+
+void DrawErrorScreen() {
+  String errorText = "Could not find file";
+  textSize(12);
+  background(255);
+  fill(0);
+  text(errorText, 0, height/2.0);
+  text("\"place-text-here.txt\" expected to be in this folder:", 0, height/2.0 + 30);
+  text(System.getProperty("user.dir"), 0, height/2.0 + 60);
+}
+
 //==============================================================================
 //Initial Window setup
 void setup() {
@@ -130,26 +141,30 @@ void setup() {
   windowResizable(true);
   frameRate(FPS);
   CalculateDrawingTime();
-  reader = createReader("tarot.txt");
+  reader = createReader("place-text-here.txt");
   //TODO: Add error message if cannot open file
-  //reader = createReader("abstract.txt");
-  ArrayList<String> document = ReadFile();
-  println("Total words in document: " + document.size());
+  if (reader == null) {
+    DrawErrorScreen();
+    noLoop();
+  } else {
+    ArrayList<String> document = ReadFile();
+    println("Total words in document: " + document.size());
 
-  int fontSize = 30;
-  PFont myFont = createFont("opendyslexic-0.910.12-rc2-2019.10.17\\OpenDyslexic-Regular.otf", 30);
-  textFont(myFont);
+    int fontSize = 30;
+    PFont myFont = createFont("opendyslexic-0.910.12-rc2-2019.10.17\\OpenDyslexic-Regular.otf", 30);
+    textFont(myFont);
 
-  SingleLineControl singleLineControl = new SingleLineControl(0, 0, width*leftControlSize, height);
-  displayControl = singleLineControl;
+    SingleLineControl singleLineControl = new SingleLineControl(0, 0, width*leftControlSize, height);
+    displayControl = singleLineControl;
 
-  crazyLine = new CrazyLine(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), fontSize);
-  normalLine = new NormalLine(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), fontSize);
-  passage = new Passage(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), fontSize);
+    crazyLine = new CrazyLine(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), fontSize);
+    normalLine = new NormalLine(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), fontSize);
+    passage = new Passage(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), fontSize);
 
-  methods = new DisplayMethod[] { crazyLine, normalLine, passage };
+    methods = new DisplayMethod[] { crazyLine, normalLine, passage };
 
-  display = crazyLine;
+    display = crazyLine;
+  }
 }
 
 //Draw loop
