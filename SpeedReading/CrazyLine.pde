@@ -42,7 +42,7 @@ public class CrazyLine extends DisplayMethod {
     if (history.peek() != curIndex) {
       history.push(curIndex);
     }
-    println(history);
+    //println(history);
     curLine = "";
     boolean lineUpdated = false;
     while (curIndex < document.size()) {
@@ -57,7 +57,7 @@ public class CrazyLine extends DisplayMethod {
     if (!lineUpdated) {
       curLine = "All done :)";
     }
-    println(curLine);
+    //println(curLine);
     x = random(w);
     y = random(h);
 
@@ -76,6 +76,7 @@ public class CrazyLine extends DisplayMethod {
         history.push(0);
       }
       curIndex = history.peek();
+      //println("Back: new index: ", curIndex);
     }
   }
   void Forward() {

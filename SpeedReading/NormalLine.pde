@@ -32,7 +32,7 @@ public class NormalLine extends DisplayMethod {
     if (history.peek() != curIndex) {
       history.push(curIndex);
     }
-    println(history);
+    //println(history);
     curLine = "";
     boolean lineUpdated = false;
     while (curIndex < document.size()) {

@@ -1,0 +1,1405 @@
+A Sociology of TAroT
+ Mike SoSTeric
+ Abstract. This article attempts to establish a sociology of the occult in general, 
+and a sociology of the Western tarot in particular. The tarot is a deck of 78 cards 
+invented in Italy in the fifteenth century. From humble beginnings as a device 
+for gaming or gambling, the tarot became invested with occult, mystical, divine, 
+spiritual, and even psychological significance. This investing became part of a 
+larger strategy of discipline and indoctrination to ease the transition from pre
+industrial structures of power and authority to industrial and bureaucratic struc
+tures. That tarot, associated as it was with the emergence of elite Freemasonry, 
+helped provide new ideologies of power and ways of existing within new tightly 
+structured, bureaucratic organizations. 
+Keywords: Tarot, freemasonry, discipline and control, ideology, occult, religion, 
+halo/sharp.
+ Résumé. Cet article vise à établir une sociologie des sciences occultes en général 
+et une sociologie du tarot en particulier. Le tarot comprend 78 cartes et a été 
+inventé en Italie au XVe siècle. De ses débuts modestes en tant que jeu, le tarot 
+s’est vu associé aux sciences occultes, mystiques, divines et spirituelles, prenant 
+même une signification psychologique. Cette dimension s’est inscrite dans une 
+plus grande stratégie de discipline et d’endoctrinement dans le but de faciliter la 
+transition des structures préindustrielles du pouvoir et de l’autorité à des struc
+tures industrielles et bureaucratiques. Ce tarot, associé à l’émergence de la franc
+maçonnerie d’élite, a contribué aux nouvelles idéologies du pouvoir et des moy
+ens d’exister dans les confins d’organisations très structurées et bureaucratiques.
+ Mots-clés: Tarot, franc-maçonnerie, discipline et contrôle, idéologie, occulte, 
+religion.
+ © Canadian Journal of SoCiology/CahierS CanadienS de SoCiologie 39(3) 2014 357
+358 © Canadian Journal of SoCiology/CahierS CanadienS de SoCiologie 39(3) 2014
+ introduCtion
+ Academics have long displayed an interest in psychical research, para
+psychology, occult practices, and other phenomenon at the bound
+aries of science (Collins & Pinch 1982; Truzzi 1974a, 1974b; Zaretsky 
+& Leone 1974; Robbins & Anthony 1979). This multidisciplinary inter
+est is traceable even to the founders of specific disciplines, although we 
+might be surprised to find that thinkers like Freud (Devereux 1953), San
+dor Ferenczi (Gyimesi 2012), William James (Sech, de Freitas Araujo 
+& Moreira-Almedia, 2013) and other disciplinary luminaries took ser
+iously the investigation of ‘boundary phenomenon.’ Sociologists have 
+also expressed some interest in boundary phenomenon, the occult, se
+cret societies, and such, but it has been far from all consuming. Simmel 
+(2006) attempted to establish a sociology of secret societies and Tiryak
+ian (1972) attempts to move us ‘toward a sociology of esoteric culture.’ 
+Some work has been done in the Sociology of Science (Collins & Pinch 
+1982), and Hess (2007) has examined spiritism in some detail, but by 
+and large sociologists have been silent, both empirically and theoretic
+ally, on issues of the occult. 
+This lack of sociological interest and almost dismissive orientation 
+can perhaps be traced to the dominant assumption that secularization and 
+scientific rationality would eventually kill such practices outright (Lund
+skow 2008). It could also be partly due to their disenchantment with 
+natural forces (Stone 2006), partly to the Durkhemian view of religion 
+as a basic expression of the underlying social order (Durkheim 1915), 
+partly to an anti-occult narrative that dismisses such interest as ‘heresy’ 
+or ‘superstition’ (Hanegraaff 2005; Versluis 2007), and partly to Marx
+ian skepticism of religion and spirituality. As a result, sociology has paid 
+little research attention to boundary subjects like, for example, the tarot. 
+The tarot is a deck of cards used for occult and mystical practice with 
+a history of socio-political intrigue dating back to the fifteenth century 
+(Dummett 1980), but which hardly registers on the sociological radar at 
+all. There is some interest in a scholarly study of tarot outside of sociol
+ogy, but even there the ‘paucity of material’ requires a multidisciplinary 
+approach (Farley 2009, 5) Farley (2009, 1) attributes the lack of interest 
+in the tarot to its association with “shoddy soothsayers and confidence 
+tricksters,” and that is certainly part of it. Whatever the reason, the lack 
+of sociological interest in the tarot represents a significant theoretical and 
+empirical lacuna because, as this paper will attempt to demonstrate, there 
+are reasons to believe that the tarot has far more sociological significance 
+than first attributed to it. In this paper we see that the Western tarot be
+came a weapon used in an esoteric (i.e., secret) class war by ruling elites 
+a SoCiology of tarot                                  
+ 359
+ to regain the power they lost as Church authority, and elite authority in 
+general, were dismantled during the eighteenth and nineteenth centuries 
+as a result of the English, French, and scientific revolutions. 
+What iS tarot?
+ The characteristics of a tarot deck are peculiar. A tarot deck is a set of 
+cards in two parts (Dummett 1980) — a set of fifty-six minor cards, 
+minor arcana, or suit cards, and a set of 22 additional ‘major’ cards. In 
+the ‘minor’ part of the deck there are four suits (Swords, Batons, Cups, 
+and Coins), each of which contains the cards ace through ten as well 
+as a King, Queen, Knight, and Jack. The major cards contain a Fool 
+card, traditionally labeled 0, and twenty-one other major arcana or trump 
+cards, numbered from I to XXI. Historically, the trump cards were: 
+I
+ Mountebank 
+VIII Justice  XV The Devil 
+II The Popess IX The Hermit XVI The Tower 
+III The Empress X The Wheel 
+of Fortune 
+XVII The Star 
+IV The 
+Emperor 
+XI Fortitude XVIII The Moon 
+V The Pope XII The Hanged 
+Man 
+XIX The Sun 
+VI Love XIII Death XX Judgement 
+VII The Chariot XIV Temperance XXI The World 
+According to Dummet (1980, 7), it is the presence of the twenty-two 
+‘triumphs’ that always “distinguishes the tarot pack from every other 
+360 © Canadian Journal of SoCiology/CahierS CanadienS de SoCiologie 39(3) 2014
+ kind of playing-card pack.” In a tarot deck, the minor arcana may or may 
+not be painted with images; however, the major arcana are almost always 
+illustrated with fanciful, mythological, spiritual, and cultural imagery.
+ divination
+ When the Tarot first came into existence the deck was little more than 
+a picture book, a system for gaming, possibly a device for gambling 
+(Dummett 1980) and held no mystical, magical, or divinatory signifi
+cance (Farley 2009). The tarot did, arguably, have allegorical signifi
+cance and Farley (2009) provides a convincing argument that the tarot, 
+originating within the cultural milieu of the Egyptian Mamlūk caste, was 
+reinvented as an allegory for the life of the Viscontis, rulers of Milan, 
+but beyond that there is no evidence (despite protestations of authors 
+like Place (2005) who erroneously assert the tarot’s mystical credentials 
+based on its association with the mystical secular art of the Renaissance), 
+to suggest it was anything other than a simple game of cards. According 
+to Farley (2009, 3), “It began its life as a game with no purpose beyond 
+providing mental stimulation. It contained no esoteric wisdom, could 
+provide no spiritual advice and gave no clue as to how to conduct one’s 
+life.”  These days, however, the tarot has become much more. At its most 
+sinister, the tarot is an indicator of, and perhaps gateway to, satanic wor
+ship (Rudin 1990). 
+Some traditional Christians, in particular those of an evangelical 
+bent, have a powerful belief that the tarot is a book of the devil. This 
+belief is so powerful that even to mention the word ‘tarot’ causes a vis
+ceral, fear-based reaction (Anon 2012). However, the tarot is not primar
+ily seen in this way. Much more common is a belief that the tarot was 
+designed for, and can be used as, a tool for cartomancy. In the early days 
+of tarot mysticism it was thought that the tarot could provide a gate
+way or a channel that would facilitate communion with jinn, angels, and 
+other exalted heavenly hosts. More recently, the superstition has been 
+tempered, but the belief in gateways and channels remains, and in some 
+surprising places. These days, the most respectable way to present the art 
+of divination would be as an attempt to explain the world where science 
+seems unable to work (Maitre & Becker 1966), as a tool for developing 
+the ‘inner eye’ (Noddings & Shore 1984), or perhaps a way to tap into 
+the knowledge contained in the unconscious (Bala 2008). The tarot also 
+holds a respected place in Jungian psychology as a way to connect with 
+“that level of nature that lies behind stars and cards and psyche and is 
+expressed in all of them” (Spiegelman 1998, 93). For Spiegelman “that 
+a SoCiology of tarot                                  
+ 361
+ level of nature” is the level of ‘archetypes.’ According to Spiegelman 
+‘archetypes’ represent grand cosmic templates and patterns all of which 
+can, when suitably connected with, yield prescient and prophetic con
+tent. 
+However, as noted above, while the twenty-two trump cards that dis
+tinguish a tarot deck from a ‘normal’ pack may have been developed 
+with allegory in mind (Farley 2009; Pratesi 1989), there are no estab
+lished references to the use of the tarot as a fortune-telling tool until the 
+middle of the eighteenth century (Dummett 1980). The first association 
+of the tarot with mystical or divinatory proclivities emerge specifically 
+with the work of Antoine Court de Gébelin, M[onsieur] le C[omte] de M. 
+and Etteilla (whose real name was Jean-Baptiste Alliette). Both can be 
+traced to the publication, in 1781, of Court de Gébelin’s nine-volume Le 
+Monde primitif, more precisely, to two seminal essays, one by Court de 
+Gébelin, and the other by M. le C. de M. (Dummett 1980). Prior to this 
+publication, the tarot was seen as nothing more than a vehicle for a game 
+of cards, and an outlet for the vice of gambling. Afterward, however, 
+the tarot gradually became a divinatory masterpiece and key to all life’s 
+mysteries. Before we address the question of why the tarot changed, and 
+what is significant about the dates, it will be worthwhile to highlight just 
+what the tarot has become since Court de Gébelin first set the ball rolling
+ a hermetiC myStery tool
+ It is surprising enough that the tarot, a mere pack of cards with pretty 
+pictures, would become a significant tool in the repository of the Jungian 
+therapist, but even more surprising is the spiritual import that has been 
+placed on this not-really-so-ancient pack of cards. For many, the tarot 
+has become a hermetic or spiritual tool. ‘Hermetic,’ in this instance, is to 
+be understood both as “a tool of occult science and magic,” and as “hav
+ing a lineage traceable to Hermes Trismegistus.” Thrice-great Hermes 
+was the mythological author of a corpus of works teaching Hermeti
+cism, a belief that the world can be influenced through contact with and 
+exploitation of ‘heavenly forces’ — magic in other words. In this view, 
+the tarot is a book of ‘special’ symbols, a “perfectly simple philosophical 
+machine” that contains “the whole science” and “that astonishes by the 
+depth of its results” (Levi 2002, 85). According to this line of thought, 
+the tarot is not an ‘open’ book; rather, it is a secret book, a hidden book, 
+one open only to those who undergo a “special training of the mind” 
+(Ouspensky 1976, 2). With the tarot, it becomes possible to mediate be
+tween humanity and the Godhead, between god/spirit/consciousness and 
+362 © Canadian Journal of SoCiology/CahierS CanadienS de SoCiologie 39(3) 2014
+ profane human existence (Semetsky 2011a). In the Hermetic tradition, 
+tarot is variously a teaching tool used to develop special skills, a “com
+plete code of Hermetic symbolism” (Ouspensky 1976, 2), a “summary 
+of Hermetic Sciences” (Ouspensky 1976, 6), and a way of revealing the 
+“interface between human kind and the cosmos” (Jorgensen & Jorgensen 
+1982, 381).
+ Occult reality, then, is “idealistic” or spirit like in fundamental character. 
+The material world (that world available to sensory experience) is held 
+to be an illusion; matter, in other words, is dominated by spirit. The tarot 
+symbolically represents material phenomena (heavenly bodies, political, 
+family, economic relations) in terms of nonmaterial principles and forces 
+thought to constitute the True nature of the universe. Though hidden and 
+concealed, these supernatural forces are accessible to human beings by 
+way of intuitive, mystical, or psychic insights. (Jorgensson & Jorgensen 
+1982, 380)
+ As Jayanti (2004, ix) notes, “... the images in the true1 tarot are liberating 
+in their effect as they present the reality behind appearance which is the 
+search of all aspirants... The tarot is the easiest gateway to the Great Mys
+teries of Life.” In sum, in the magical mystery traditions of the Western 
+world, the tarot is an esoteric tool of mysticism, a supreme instrument 
+of divination, a deck of secret knowledge, an ancient Egyptian fountain 
+of wisdom, a bible of bibles, a bible of humanity containing wisdom 
+from the time the world was born, a book of Thoth, a book of Adam, a 
+revelation of ancient civilizations, and the whole cosmic/cosmological/
+ theological and philosophical ball of wax rolled up into one convenient 
+package of cheaply illustrated paper cards (see Dummett 1980; 2007).
+ 1. Not the “fake” Tarot, but the “true” tarot. Ever since the Freemasons took 
+over tarot imagery there have been attempts to “manifest” the “true” tarot. 
+Commentators like Crowley and Waite, and all those before, approach the 
+tarot as if it is a puzzle in need of solution, or a cosmic gestalt in need of 
+expression. For all these people there is an underlying truth that needs reveal
+ing. Thus each approach is an attempt to uncover the true meanings of the 
+cards. Truth can be located in mystical gnosis (as the Freemasons attempt to 
+do) or archetypal revelation (as Jungian therapists to do), but either way there 
+is an attempt to find the “true” tarot. Of course, the argument of this paper is 
+essentially there is no “true” tarot. There may be spiritual and gnostic truths to 
+discover in this world, but these truths are not inherent in the tarot. The tarot 
+is a human construction and thus the question is not whether we can discover 
+the “true” tarot, but are we satisfied with the thing that we have constructed. 
+Personally I am not satisfied with the masonic Tarot and have been working 
+to see something new, something more progressive, constructed in its place 
+(see comments in the conclusion of this paper).
+a SoCiology of tarot                                  
+ 363
+ magiCal SemiotiC revelation/therapy
+ We will return to analysis of ‘hermetic mysteries’ of tarot shortly. It is 
+worth noting that out of the view that tarot is some magical, spiritual tool 
+have arisen other schools of thought. Noteworthy is the Jungian school 
+of psychology where you will find the same hyperbolic discourse on the 
+powerful tarot. Here the tarot is a tool for praxis therapy, a thing to facili
+tate the process of ‘individuation’ (Gad 1994), an instrument capable of 
+“heal[ing the] human psyche and lift[ing the] human spirit” (Semetsky  
+2010b, 59), and offering transformation and transcendence (Bala 2010). 
+Its efficacy is established by linking it to psychological theories of ‘ab
+jection’ and archetypal psychology (Semetsky 2000). We can use indi
+vidual archetypes to facilitate self-journey and awareness, reading deep 
+archetypal significance from them (Nichols 1974). In certain branches 
+of psychology, the tarot is even more than mere individuation. Its utility 
+is extended into the world of semiotics and child psychology (Jayanti 
+2004). Some see tarot as a tool to teach children the “three I’s” of “in
+formal education”: intuition, insight, imagination (Semetsky 2011a), or 
+even as a powerful therapeutic tool, a reflection of the four gateways of 
+childhood, bursting with deep psychological meaning, a divine reflec
+tions of deep psychology so powerful that it might help heal the inner 
+child and rework toxic socialization. As Jayanti (2004, 8) notes:
+ To conclude, [because] so many of us were brought up in dysfunctional 
+families...a great need to re-habituate or re-parent...ourselves has arisen. 
+Many types of work geared to reclaim and heal the Inner Child have be
+come available to answer this need. The ancient Qabalistic tarot and Tree 
+of Life have offered the tools with which to do this type of transforma
+tional work.
+ According to Semetsky (2011a, 252) “The tarot images that are laid 
+down in a particular pattern are thereby ‘selected’ by soul, by the uncon
+scious, and cannot be considered random.” In this way, the tarot becomes 
+a kind of mystical Rorschach, allowing an individual or therapist access 
+to deep levels of meaning in the collective memory pool for the purpos
+es of spiritual work, meaning, and mythological revelation (Semetsky 
+2009; 2011b). “When symbolically represented in Tarot images, the tran
+scendental realm of the psyche is being brought, so to speak, down to 
+earth by virtue of its embodiment in physical reality.” (Semetsky 2010a, 
+110, emphasis in the original). In line with this line of thinking Nichol
+son (2003) uses the tarot to illustrate deep wisdom of feminist theology, 
+and Santarcangeli (1979, 33) informs us of the deep cosmic ‘wisdom’ 
+of the fool. If you believe the psychologists, pregnant with meaning, the 
+364 © Canadian Journal of SoCiology/CahierS CanadienS de SoCiologie 39(3) 2014
+ tarot is a teacher of lessons and a font of cosmic/genetic/racial wisdom 
+and memory. 
+the reality
+ At this point the question is begged, what is it about the tarot that has 
+made it into such a special tool for so many people. More to the point, 
+why did a simple game of cards become the magical mystery tour de 
+force that it is today? The first clue to unraveling ‘the mysteries of tarot’ 
+comes in the origin and time line of the tarot deck. The tarot’s origins 
+can be precisely pinned down, specifically to the royal courts of fifteenth 
+century Italy (Dummett 1980). After that date, there are no references 
+to the tarot as anything other than a game (or a vice) until just before 
+the French Revolution (1789 - 1799), when Protestant priest and Free
+mason Antoine Court de Gébelin published (in 1781) volume eight of Le 
+Monde primitif (Decker, Depaulis & Dummett 1996). In that volume are 
+two essays, one by de Gébelin, and the other by M. le C. de M.2 expound
+ing on the mystical, cabbalistic, astrological, and Egyptian significance 
+of the fifteenth century Italian tarot (Dummett 1980).  
+Subsequent to the publication of these essays, the tarot was picked up 
+by famous cartomancers, including Etteilla and Mlle. Marie-Anne Adel
+aide Lenormand, and later still, commented on by magical (and Her
+metic, Rosicrucian, and Masonic) luminaries such as Eliphas Levi, Ar
+thur Edward Waite, Aleister Crowley, and so on (Dummett 1980; Decker 
+and Dummett 2002; Farley 2009). During the period of effusive impos
+ition of occult significance, the tarot came to be associated with ancient 
+Egyptian high priests, ancient cabbalistic Jews, Hermes Trismegistus, 
+the divine Lux (light/spirit) behind reality, the Gypsies (who were said 
+to be roaming Egyptians), the divine name of God (the Tetragramma
+ton), and the Sephiroth (divine emanations). It was, so they said, created 
+under the direction of Hermes, devised by seventeen magi, and written 
+on magical leaves of gold (Dummett 1980, 107). Originally constructed 
+as a game, or a book of allegories, the tarot was co-opted by esoteric/
+ secret societies, became associated with their ‘secret knowledge,’ and 
+eventually came to inscribe not only their magical ‘initiation rituals,’ but 
+the magical path of the soul as well.
+ The question at this point must be, does the tarot contain esoteric 
+truths from ancient Egypt? Is it a magical book of books? Did Egyptian 
+2. Court De Gébelin refers to the author of the second essay as M. le C. de 
+M.***. As Dummett (1980: 105) notes, Robin Briggs identifies the contribu
+tor as Louis-Raphael-Lucréce de Fayolle, Comte de Mellet. de Fayolle was a 
+brigadier in the cavalry, a governor, and an “unremarkable court noble.”
+a SoCiology of tarot                                  
+ 365
+ high priests and ancient high gods write the divine wisdom of the cos
+mos onto the gold leaves of tarot? The answer to that is an unequivocal,  
+no. According to three of the most authoritative figures on the subject, 
+there is no historical basis to any of the ancient (or modern) occultists’ 
+claims about the significance of the tarot (Decker & Dummett 2002; 
+Farley 2009). In fact, according to Dummett (1980), historical claims 
+that the tarot is anything other than an Italian game of trumps are an 
+uninformed, esoteric mish-mash. The question isn’t how to uncover the 
+secret mystical knowledge, but rather “Why did a simple pack of cards 
+come to take on such magical and mysterious import?” This sociological 
+question remains largely unanswered (Decker & Dummett 2002, 315). 
+unraveling the myStery
+ The first clues to unraveling the ‘mystery’ come from the temporal loca
+tion of its emergence as a divinatory tool, specifically, during the French 
+Revolution. At that time, traditional power structures were crumbling 
+and New World industrial capitalism was emerging. The popular mind 
+sees this period as one of general emancipation, but as any sociologist 
+will know, the history of the French, English and Dutch revolutions and 
+the emergence of industrial capitalism is not the history of the end of 
+class oppression. Instead, it is the history of the replacement (more or 
+less) of one ruling class with another. During the transition, feudal re
+lations of power, feudal ideological institutions, and feudal systems of 
+control were replaced with industrial ones.
+ The story of this transformation is understood, at least in general 
+terms, as a disciplinary revolution. Between the eighteenth century and 
+middle of the nineteenth, Western institutions changed dramatically 
+(Kieser 1998) and new forms of behavior were required if industrial 
+capitalism was to survive and thrive (Weber 2003). It essentially came 
+down to the creation of new kinds of authority, and new power relations, 
+as economic, productive, and social crises brought the old feudal order 
+to its knees (Dobb 1972). It is, in short, about the creation of modern 
+corporate/ bureaucratic control structures, fitting workers and middle 
+management with the executive branches, and creating the well-oiled 
+capitalist machine we have today (Barnard 1968). In the context of the 
+disintegration of traditional organizations and traditional authority struc
+tures, the issue was one of authority, command, control, and legitimacy 
+(Weber 2003), especially in emerging industrial production. Modern 
+corporations and bureaucracies have top-down executive control and 
+established disciplinary procedures, but these things would have been 
+366 © Canadian Journal of SoCiology/CahierS CanadienS de SoCiologie 39(3) 2014
+ absent at the cusp of the revolution. At that time, there would have been 
+an obvious need to create new organizational structures and civilizing 
+influences (Elias 1994), and of course, that is what happened. It is a com
+mon story in sociology with the rise of the Protestant ethic (Weber 1987; 
+2003) and the dispersion of ‘institutional strategies’ for maintaining col
+lective discipline throughout Europe (Gorski 1993, 266). 
+In the context of ‘institutional strategies’ for maintaining collective 
+discipline, Freemasonry and other middle-class “men’s huts” (Jewkes, 
+2005, 47)3 can been analyzed sociologically. According to Jewkes 
+(2005), freemasonry is part of a male bonding ritual, characterized by 
+hierarchies and exclusions, and that reproduces and reaffirms patriarchy, 
+unequal power relations, and ‘male’ hegemony. Jewkes’ comments are 
+relevant here, not so much for the Masonic performance of patriarchy, 
+but for the way the Masonic universe reinforces and, more importantly, 
+re-creates power relations, not in a feudal way, but in a bourgeois one. 
+When they were first introduced, Masonic lodges were safe places 
+to explore, proselytize, and convert people to the new social order. “It 
+was in the lodges and through them that the bourgeoisie acquired a so
+cial form of its own. In imitating both its mystery won a place beside 
+the ecclesiastical mysteries and the arcane politics of States” (Koselleck 
+1988, 72,  quoted in Horn 2011, 111). According to Kieser (1998, 47), 
+Freemasonry was part of the shift in control and disciplinary strategies 
+from feudal organizations, such as guilds, which “encompassed” mem
+bers “in total”) and organizations that required less complete forms of 
+immersion (i.e. pre-modern bureaucracies). In this context, Freemasonry 
+was an ideological and pedagogical control strategy, helping to facilitate 
+not only required changes in behaviour, but also the development and 
+acceptance of modern command and control structures. As Kieser notes:
+ The shift from estates to organizations necessitated enormous changes in 
+the individual’s behaviour. Today, organizational behaviour has become 
+so common that we are no longer aware of the amount of learning about 
+new behaviour that members of the early organizations had to manage. 
+3. Men’s huts are “where those men who have earned the right to call them
+selves men, or are in the process of attaining this emblem of privilege, gather” 
+(Remy 1990, 45, cited in Jewkes 2005, 47). Jewkes goes on to say “[m]en’s 
+huts for the middle class are institutions such as golf clubs, gentlemen’s clubs, 
+and Freemason lodges, while working class manifestations include pubs and 
+betting shops” (2005, 47). Men’s huts exclude women and “uninitiated” men. 
+The metaphor derives from the physical men’s huts found in many hunter
+gatherer societies. Anthropologists have found that the greater the distance 
+(physical or social) between the men’s hut and the rest of the village, the 
+poorer the relative position of women within the society (see, for example, 
+Spain, 1992).
+a SoCiology of tarot                                  
+ 367
+ For example, in organizations, they had to accept a person as a superior 
+for the simple reason that this person was appointed as a superior. The su
+perior could be younger, less educated, of a lower social status, less skilled 
+— none of this mattered; as a subordinate, one had to accept his or her 
+orders. On the upper levels of an organization, the member also had to be 
+able to make decisions according to the rules sine ira et studio (without ire 
+and passion), even if, as an individual, he or she would have decided dif
+ferently. In general, as a member of an organization, one has to do things 
+for an organization according to plans, procedures, or orders that, as an 
+individual, one would tend to reject. In the 18th century, very few people 
+were able to exhibit a behaviour that was appropriate for organizations 
+and even fewer were capable of designing organizations. (1998, 47)
+ In the context of the disciplinary revolution, Gorski (1993) notes two 
+important features of the new organizations: an ethic of social discipline 
+and surveillance. Members of modern organizations enter into a disci
+plinary community with all the standard features of modern control, in
+cluding enclosure, partitioning, ranking, organizational rules, etc. (see, 
+for example, Foucault 1975). Furthermore, the ethic of social discipline 
+requires mutual (later technological) surveillance. Freemasonry was 
+very popular in the late seventeenth and early eighteenth centuries, a 
+time when feudal methods of control and discipline were dissipating and 
+new forms were required. Freemasonry provided discourses of authority, 
+a disciplinary ethic, and provisions for mutual surveillance and social 
+discipline, all rooted in and inspired by Calvinism and ascetic Protest
+ant ethics (Gorski 1993). Kieser (1998) provides a revealing translation 
+of several masonic speeches of the era. Freemasons saw themselves as 
+‘impressive men,’ conscious of their role in the formation of new social 
+orders, and actively involved in steering its emergence. Freemasons had 
+a moral duty for mutual education in temperance, politeness, prudence, 
+perseverance, and other characteristics suitable to a new and emerging 
+bourgeois society. Freemasons were admonished to be active, to have a 
+strong work ethic, and to engage themselves in useful labour, all very 
+valuable advice for anyone seeking entrance into the power centres of 
+the emerging middle classes. 
+Lodges were thus organizations that enabled their members to de
+velop precisely those skills they would need as capitalism developed. 
+Lodges constructed the first hierarchies4 divorced from feudal tradition, 
+4.  Masonry has a “trigradal” system, entered apprentice, fellow craftsmen, and 
+master (Knoop & Jones, 1947). This three tiered division, which emerged as 
+Freemasonry passed from operative into speculative forms, reflect the Cap
+italist social classes, lower, middle, and upper, and also the worker, middle 
+management, and executive branches of modern organizational bureaucra
+cies
+368 © Canadian Journal of SoCiology/CahierS CanadienS de SoCiologie 39(3) 2014
+ basing advancement not on ‘the dignity of birth,’ but on the acquisition 
+of key organizational and moral skills, such as self-discipline, reliability, 
+loyalty, and subservience to the command chain, and this was true even for 
+nobles (Manheim 1979, cited in Kieser 1988).  Nobles entered lodges as 
+well, and they did so as a way to transition themselves from old power re
+lationships into new ones. Lodges offered a way for old layers of nobility 
+to mingle with emerging industrial elites (Kieser 1988). Similarly, Free
+masonry offered the upper bourgeoisie fulfillment of its need for prestige 
+and recognition. In this way, secret societies, as they initially emerged, 
+helped to bridge the social gap (Kieser 1988). Perhaps most importantly, 
+Freemasonry facilitated the development of a morality that would facili
+tate business relationships (Schindler 1982, cited in Kieser 1988). In this 
+regard, Freemasonry can be considered a brilliant and self-conscious strat
+egy for lubricating the transition from and old to a new world order — it 
+helped create new modes of discipline and authority, and new power struc
+tures, all the while co-opting potential resistance (by incorporating feudal 
+authority) and obscuring the intent and outcome of its operations.
+ The ideological, political, and social functions of the Freemasons 
+(and other secret groups) have long been established.5 The question now 
+becomes, “What does all this have to do with the tarot?” The answer is, 
+“Everything.”  From almost the beginning, the tarot has been an essential 
+part of ideological indoctrination in secret brotherhoods, and a tool useful 
+for facilitating the mutual education of the emerging social elites. Indeed, 
+new speculative lodges were barely open a day before tarot became in
+corporated. The moment of creation of the ‘occult tarot,’ and the principle 
+author responsible, are highly revealing indicators. As Dummett notes:
+ The entire occultist tarot tradition stems from the work of Antoine Court 
+de Gébelin (1719 - 1784), a Protestant pastor, Freemason, and savant. 
+5.  Interestingly, the story of the Masonic men’s hut as tool of ideological in
+doctrination of the emerging elites fits well with the historical transformation 
+that occurred in Freemasonry during the 18th century. Prior to about 1740 
+Freemasonry was nothing more nor less than a craft union, functioning to 
+organize stone workers, protect their interests, and protect the craft (Knoop 
+& Jones, 1947).In the 16th and 17th centuries however Freemasonry was 
+transformed from “operational” to “accepted,”  and finally to a “speculative” 
+secret society. This transformation occurred as the doors of the organization 
+where thrown open to individuals outside of the craft itself. It began when 
+Freemasonry began to “accept” members as brothers despite the fact that they 
+were not stone masons. Initially acceptance was based on an expressed inter
+ests in architecture or engineering (both loosely related to craft working) but 
+later, as elite, nobles, merchants, and others were “accepted,” the pretense 
+was dropped altogether.  At a certain point, 1740 to be specific (Knoop & 
+Jones, 1947), speculative Freemasonry, a Freemasonry based on the creation 
+of legend, mystery, and “esoteric” secrets, was born..  
+a SoCiology of tarot                                  
+ 369
+ Born in Geneva, he was the son of Antoine Court, the most prominent 
+French Protestant pastor of his day, and lived in Switzerland until he was 
+40. (1980, 102, emphasis added) 
+Court de Gébelin initiated the idea of the occult tarot. Following him, the 
+idea of ‘the tarot as occult masterpiece’ was extended by Freemasons, 
+clerics, and other members of the emerging elite (Dummett 1980). The 
+ideological imposition reached a sort of culmination with the work of 
+prominent Freemason, A.E.Waite in the early twentieth century, but even 
+down to this day tarot decks are regularly linked to secret societies.6 For 
+example, authors such as Jayanti (2004, v) reference well-known Free
+masons like Paul Foster Case as teachers. And lest one doubt the inser
+tion of tarot into ideologies of hierarchy and control, Jayanti unselfcon
+sciously discusses major modern decks as derived from elite organiza
+tions participating in the ‘spiritual hierarchies’ (read ‘elite hierarchies’) 
+of this world:
+ The true tarot decks that have been published by authentic Mystery 
+Schools, such as the Order of the Golden Dawn of England with the Rider 
+deck, and the Builders of the Adytum of the US with the Case deck, are 
+true in that they most closely approximate the unpublished tarot of the In
+ner School, the Spiritual Hierarchy of the world (Jayanti, 2004: ix).
+ Of these ‘inner schools,’ Lachman’s (2011) remarkably forthright, if not 
+particularly introspective, comments are instructive as well: 
+The Secret Chiefs, the Hidden Masters, the Inner Circle, the Illuminati, 
+the King of the World: we know them all today, perhaps in different forms 
+and perhaps by different names. But we know them. They are the ones in 
+control. They are the ones behind the closed doors and within the locked 
+rooms. They are the ones with the secret knowledge, who speak a secret 
+language. They know the magic symbols that unlock the gates that lead to 
+worlds beyond our own. They have passed through the trials and ordeals 
+of initiation. They have found the Holy Grail, the Philosopher’s Stone, 
+the Emerald Tablet, the dreaded Necronomicon and the lost continent of 
+Atlantis.
+ The question now becomes, why choose tarot for this purpose and 
+why incorporate it as a tool of indoctrination when it was merely a card 
+game at the time? The answer, although lost in the mists of time, likely 
+revolves around (a) the allegorical meaning of the images, a meaning 
+linked to the Italian courts of the fifteenth century, (b) their suitability 
+6. For a more detailed overview of the history of the occult tarot, see http://
+ en.wikipedia.org/wiki/Divinatory tarot (retrieved April 2, 2013).
+370 © Canadian Journal of SoCiology/CahierS CanadienS de SoCiologie 39(3) 2014
+ as an imaginative device capable of absorbing additional meaning, and 
+(c) their suitability for ideologically impregnated drama. As Dummett 
+(1980) notes, the original tarot decks were painted for members of the 
+royal elite. As Farley (2009) discovered, the images themselves were 
+representative of the life and times of important noble families. Thus 
+the images incorporated themes that any sociologist would recognize 
+as representing elite life, elite priorities, elite ideology, and elite spiritu
+ality.7 There is a Court Fool, for example, and a Court Juggler. The au
+thority of the state and church are clearly represented in the Empress, 
+Emperor, and Pope cards. There’s a Chariot carrying the king, a Hermit 
+(a monk perhaps), an angel of Temperance, and the Justice of the royal 
+courts. Death, a common fact of life, is represented, as is Love (and mar
+riage). Even the Christian last Judgement, a cautionary tale if there ever 
+was one, is there.
+ Figure One: The Emperor and Hierophant (Pope) from the Rider-Waite 
+Deck
+ 
+The presence of elite ideology and practice in the already existing tarot 
+deck would likely have been attractive to the Protestant clerics and Free
+masons who co-opted the deck. After all, they were demonstrably mem
+bers of the elite already. More attractive perhaps would have been the 
+opportunity to read in additional meaning. Images are worth a thousand 
+words we are told, but what words those might be are often a matter of 
+7. See http://en.wikipedia.org/wiki/Tarot_de_Marseille for a representation of 
+the Tarot de Marsailles, one of the earliest, and certainly the most influential, 
+representation. [Retrieved April 3, 2013]
+a SoCiology of tarot                                  
+ 371
+ imagination and interpretation. As recognized by some Jungian psych
+ologists (see, for example, Rosengarten 2000), tarot images (like any 
+good images) are artistic devices that can carry significant additional 
+meaning. It took only a few years before the originators of the occult 
+tarot had impressed dogma, magic, and mysticism from the Western 
+esoteric traditions upon the tarot.8 Soon tarot cards conveyed cabbalis
+tic, astrological, alchemical, and gnostic import (Decker and Dummett 
+2002). The allegorical bed of the tarot provided a fertile ground within 
+which to plant the seeds of a new, post-feudal ideology. 
+Finally, tarot was probably attractive to emerging elites because of 
+the initiatory function it could come to serve. Versluis (2007) notes that 
+initiation is a crucial part of the entire Western esoteric tradition. Initia
+tory rights can be traced to antiquity and are to be found, for example, in 
+the early Eleusinian mysteries, where initiates were called epoptes (i.e., 
+those who behold). Epoptes were served by the hierophant, the one who 
+reveals the secret truths. Interestingly, Plato’s Allegory of the Cave can 
+be read as a tale of initiation: 
+“This famous Allegory of the Cave reveals themes that reappear through
+out the subsequent history of Western esoteric traditions, above all, the 
+conflict between the uninitiated and those who have eyes to see” Versluis 
+(2007, 16) 
+Initiation is a form of secret baptism, and is understood as a ‘revelatory’ 
+process. The propaganda of initiation holds that, in an initiation experi
+ence, the seekers’ eyes are opened, they are bathed in light, and ac
+cess to the liminal realms of knowledge are opened to them. Initiatory 
+rights are indoctrination ceremonies where elite ideology is impressed 
+upon the epoptes using common ideological and emotive devices. In 
+this regard, the tarot came to provide a sort of prototypical initiatory 
+experience, where meaning and message could be conveyed under the 
+cloak of ideologically pregnant image, ritual, and drama. These com
+ments are not original. In fact, members of elite organizations under
+stand perfectly the goal of drama in evoking emotions and controlling 
+thought. As two magicians from the modern Order of the Golden Dawn 
+admit, it is all about manipulating emotions to deliver “messages” to 
+the initiates: 
+Such dramas were intended to captivate the senses and tug at the emotions 
+as they retold the sacred legends and delivered important teachings to de
+vout followers. Then, just as now, ritualists employed theatrical props, 
+8. As noted by Versluis (2007), these are Hermeticism, gnosticism, Jewish 
+mysticism, and Christian gnosis. 
+372 © Canadian Journal of SoCiology/CahierS CanadienS de SoCiologie 39(3) 2014
+ special effects, symbolism, gestures, speeches, and other elements of per
+formance to have the greatest visual and emotive impact on their audience 
+and to convey the desired message or catharsis of feeling. (Cicero and 
+Cicero 2012, 108)
+ In a word, brainwashing. While neither the Freemasons nor the Rosi
+crucians used tarot as initiatory vehicles at first, by the middle of the 
+eighteenth century, the tarot became the vehicle for initiation into ‘the 
+mysteries’ (Dummett 1980)9 
+Of course, just because the tarot was attractive did not make it an 
+automatic tool for ideological manipulation and control. Work had to 
+be done on this game to establish its ‘occult authority’. Elite authors 
+(many of them high-level Freemasons) throughout the eighteenth, nine
+teenth and twentieth centuries established the authority of the tarot in 
+a curiously anti-intellectual fashion, citing not the actual history of the 
+deck (which could never have supported their claims to its occult au
+thority) but instead pointing to a fabricated history of legend10 based on 
+fanciful and metaphysical imagination. They also exploited incestuous 
+citation practices (citing one another’s works as authorities), and also 
+relied heavily on what Dummett (1980, 124) calls ‘false ascription.’ 
+False ascription is a rhetorical strategy designed to bolster authority of a 
+phenomenon by attributing it, or commentary on it, to some form of au
+thoritative source. In the case of the tarot, the authoritative source could 
+be an ancient philosopher, a mythological figure, an esoteric tradition, 
+or whatever else could be conceived of. Over and over, we find auth
+ors of tarot books and cards making outrageous claims about the deck, 
+developing false lineages, attributing it to mythological forces, making 
+9. The Brotherhood of the Rosy Cross is a mystical society that originated in 
+Germany in the early seventeenth century. Rosicrucianism has always been 
+an esoteric philosophy, but it was also associated with Protestantism and 
+concerned with empiricism rather than dogma. It is considered to have been 
+an early influence in the development of the Royal Society, which was es
+tablished in London in 1660, and devoted to the exploration of science and 
+natural history. Freemasonry incorporates many Rosicrucian principles and 
+rituals. For a discussion of the origins and influence of the Rosicrucians, see 
+Yates (1975).
+ 10. The creators of the occult tarot were not the only ones creating false hist
+ories and “legend.” As Knoop and Jones (19747) note, early speculative 
+Freemasons in the period between 1712 and 1740 spent a lot of time con
+structing the legends of Freemasonry. Interestingly there is, at least amongst 
+Freemasons of the time, a recognition that the legends were legends and not 
+to be taken as serious historical accounts (Knoop and Jones, 1947). This is a 
+fact lost on many modern tarot aficionados who, even when presented with 
+scholarly evidence to the contrary, continue to maintain the deck has an an
+cient Egyptian, hermeneutic, or gnostic significance.
+a SoCiology of tarot                                  
+ 373
+ ridiculous epistemological and ontological claims, and generally going 
+to great lengths to ignore history and establish the authority of the tarot.11 
+It is the argument of this paper that it is precisely because the tarot was 
+understood and developed as a device for ideological indoctrination that 
+the history of the tarot was so blithely ignored and a new one built. One 
+could not build a powerful tool for indoctrination on the fact that the 
+tarot was a simple card game invented in the Italian courts — that would 
+immediately raise doubts about authority, and concerns about ideologic
+al content. Thus, lies where told, and authority built, by claiming great 
+antiquity, Egyptian roots, mythological origins, gypsy diaspora, and so 
+on (Farley 2009). In this way, the occult authority of the deck was bol
+stered at the same time that its ideological content became ‘veiled.’ It is 
+notable that the ‘veil’ was not something of divine origin, rather imposed 
+by the conscious strategies of the Freemasons involved. 
+the ideology
+ For five centuries or more tarot cards have been used in Europe, ostensibly 
+for games and fortune-telling, but really to preserve the essentials of a se
+cret doctrine. They form a symbolic alphabet of the ancient wisdom, and 
+to their influence upon the minds of a few enlightened thinkers we may 
+trace the modern revival of interest in that wisdom. (Case 2012, 5)
+ The question remains, “What exactly is the ideology embedded in the 
+tarot?” We might think that uncovering this ideology would be a ma
+jor challenge, especially since Western esoteric traditions are, by and 
+large, secret traditions, but it is not that hard, for several reasons. For one 
+thing, and as contradictory as it might seem, modern esoteric traditions 
+are by and large written traditions (Versluis 2007). Ideology is imprinted 
+in words and images, and it is often very easy, if one has the right per
+spective (the “eyes to see” as they say), or can make a simple intellec
+tual connection, to read the ideology directly from the image or text. 
+Consider the Wheel of Fortune card, which is typically said to indicate 
+the ‘kingdom’ or, more directly, the world around us. It is an image of 
+11.  A representative sample of this charade is provided by Mathers (1888), a 
+Freemason and one of the original members of the Hermetic Order of the 
+Golden Dawn. One need only read two or three pages of the online text to 
+see the absurdity. See http://www.sacred-texts.com/tarot/mathers/index.htm 
+(retrieved April 3, 2013). See also Paul Foster Case (2012), who embraced 
+the mythology with both arms, and extended it back into the ancient Vedas, 
+holding it up as representative of universal truths buried deep in the heart of 
+the tarot. 
+374 © Canadian Journal of SoCiology/CahierS CanadienS de SoCiologie 39(3) 2014
+ reality, often with karma invoked. It is the expression of spirit, a work
+ing out of the true law of the universe, a perfect representation of divine 
+providence, or as Paul Foster Case says, a representation of “spirit in 
+self-expression”: 
+The tenth trump, the Wheel of Fortune, is Malkuth, the Kingdom. As the 
+parables of Jesus plainly show, that Kingdom is not a state of life after 
+death; nor is it, except in a very limited sense, a social order. It is the 
+method of Spirit in self-expression; and because cyclicity is characteristic 
+of that method, the tarot symbolizes the Perfect Law as Buddha did, by a 
+Wheel. (Case 2012, 32)
+ It is quite interesting that Case drops the word ‘social order’ into his 
+description of the meaning of this card. What a social order, however 
+limited, has to do with the self-expression of Spirit is unclear, but it is 
+apparently related. Case of course doesn’t bring out the nature of the 
+social order in his text. This is a “secret” tradition after all where the 
+inner truths of the hearts of men are drawn out in the hidden spaces of 
+the temple alcove. The meaning of the card, and the nature of the “social 
+order,” is available however in the visual imagery of the card with clar
+Figure Two: The Golden Dawn World Card
+ ity, precision, and dramatic oomph. Consider the Golden Dawn image 
+below. 
+Figure Two: The Golden Dawn World Card
+ 
+ 
+The social order that Case is referring to is quite plain to see in the 
+card above. Nature below, the gods above, and the wheel of life’s cycles 
+of (birth and rebirth) in between. This is an elite social order and this 
+a SoCiology of tarot                                  
+ 375
+ elite social order is embedded in Western esoteric traditions all the way 
+back to Plato, as Versluis notes of his Republic, “The Republic also res
+onates with the recurrent idea of creating a spiritual utopia governed 
+by an enlightened elite, a concept found much later, for example, in 
+the Rosicrucian movement of the seventeenth century” (Versluis 2007, 
+16). Looking at the card it is hard not to see the enlightened spiritual 
+elite governing the unenlightened and primitive masses. The ideology 
+or ‘message’ embedded in the card is something that should be familiar 
+to any second year sociology student: the card represents a two-class 
+social system, and a not very pretty one at that. The upper class is royal 
+and regal, while the lower class is unevolved, ape-like, and clearly pas
+sive. The Golden Dawn card is remarkable not only for the ‘hide in plain 
+sight’ way that elite ideology is presented, but also for the remarkable 
+way the ideology is accepted as part of a package of divine revelation, of 
+spirit expressing itself in the Kingdom. Elites are justified to rule because 
+they have access to the ‘light,’ they are ‘evolved,’ and so on. The rhet
+orical turn (reinforced by a visual turn, crucial in pre-literate societies) 
+represented here should be apparent, and a visceral reaction may even 
+accompany our realization that the divine, magical, Egyptian, Vedic wis
+dom represented in this card is nothing more than a prettied up version 
+of Catholic doctrine concerning the divine right of kings. Social class, 
+hierarchy, command, control, privilege, and the unequal distribution of 
+power, so typical of the ‘class struggle’ of this world (Marx 1848), is writ 
+large on this card. 
+Another reason that is it not hard to ‘read’ the ideology of tarot is 
+because, at the beginning of the twentieth century, the ‘secrets’ of eso
+teric elitism were fully exposed to the mass consciousness (Decker and 
+Dummett 2002) and subsequently penetrated into, and become a part of, 
+the ideological fabric of this planet. Members of the men’s huts of the 
+time, most notably Crowley and other members the fraternal organiza
+tion he founded, made it a point to expose the ‘secret teachings’ to the 
+outside world. A scandal at the time, Crowley irked members of Her
+metic Order of Golden Dawn when he self-consciously set himself, and 
+other members of his very own secret club, as the revealers of all the 
+secrets. Crowley created the journal The Equinox, and then subsequently 
+published Golden Dawn secrets and rituals in his open esoteric journal.12 
+He sets the agenda in the opening editorial of the publication, though not 
+12.  All issues of the journal are available online at http://hermetic.com/crowley/
+ equinox/ (retrieved April 3, 2013).
+376 © Canadian Journal of SoCiology/CahierS CanadienS de SoCiologie 39(3) 2014
+ without first casting standard aspersions on the ‘multitudes’ (i.e., lower 
+classes) of the world.13 
+With the publication of this Review begins a completely new adventure in 
+the history of mankind. Whatever knowledge may previously have been 
+imputed to men, it has always been fenced in with conditions and restric
+tions. The time has come to speak plainly, and so far as may be in the 
+language of the multitude. . . 
+But the Brothers of the A ∴ A ∴ make no mystery; They [sic] give you not 
+only the Text, but the Comment; not only the Comment, but the Diction
+ary, the Grammar, and the Alphabet. (Crowley 1909, 1)
+ And so the ‘revelation’ begins. However, it is not a revelation of high 
+spiritual truths, but an exposure of elite ideology and elite government. 
+The essay that follows Crowley’s editorial [by Councillor Von Eckarts
+hausen (1909)] is a veritable map of ‘spiritually enlightened’ government 
+over the masses. The document exposes elite justifications for discipline 
+and control, justifications given in both standard ‘Christian’ terms (i.e., 
+only a few people are chosen, only a few may access the light) and newly 
+minted scientific coinage (with references to evolution, strength, and fit
+ness.) It is also interesting for the open way it discusses inner circles and 
+secret governments, occult group meetings, strategies for co-opting new 
+members into the hierarchies of the world, and even political action. Of 
+course, we should be cautious about descending too far into the paranoid 
+hyperbole of conspiracy. But even so, the nature, scope, and political 
+and ideological activities of the elite are well understood by sociologists 
+(see, for example, Millar and Dinan 2007). The new revelation here is 
+an esoteric mechanism for delivering elite ideology, a mechanism that, 
+if our lack of understanding of it is any indication, has been surprisingly 
+efficacious. 
+A third reason that ‘reading’ the ideology in the cards is not that hard 
+is that the ideology itself has spread out into established scholarly work 
+about tarot. Scholars themselves, unwittingly or deliberately picked up 
+the ideology ‘revealed’ by Crowley as he stepped us all into the new 
+13. Let the secrets out? Why? Not to foment the collapse of class structure, but 
+because the ideology had become refined enough to be exposed to the mass 
+mind. With publication of A.E. Waite’s tarot deck in 1909, the Masonic ideol
+ogy of the tarot has moved into the popular mass conscious, where it exerts 
+ideological influence over the masses, just like any other religion or spiritual
+ity. Almost all modern tarot decks derived from Waite’s extremely popular 
+deck (Farley, 2009). Indeed, it is hard to find a deck that does not have char
+acteristic cards of the Waite deck, and therefore, Masonic influences.
+a SoCiology of tarot                                  
+ 377
+ ‘aeon.’ And they do it in the same obfuscatory way, claiming ancient 
+perennial spiritual wisdom underlies the sacred images of the tarot (e.g., 
+Place 2005). Jungian psychologists pick up where occult patriarchs left 
+off, attributing all sorts of magical, archetypal, and semiotic wisdom to 
+the deck. Nichols (1980), a student of the C. G. Jung Institute in Zurich 
+repeats many of the clichés of the esoteric brothers (though embellishing 
+them with psychobabble to make them look different), and importing 
+deep undercurrents of elite ideology and justification.
+ Reading the ideology from the cards is not that difficult. No doubt 
+there are undercurrents that require deeper analysis, but in many cases 
+the representation of elite authority is plain to see. There is an Emperor 
+and an Empress, a Pope (Hierophant in later versions), an Angel issu
+ing a statement of judgement, and so on. The better question for us is, 
+“Why do so few people actually see it?” Why does popular commen
+tary on the tarot accept elite justification, ideology, and fanciful legend, 
+rather than taking a more critical stance? The answer to that question 
+is more complicated. A thin spiritual patina complicates the commen
+tary and the imagery, and obscures the ideological content. This spiritual 
+patina works to deflect attention. In addition, our eyes are blinded to 
+the plain truth by a rhetorical wall spread by the brothers. Those who 
+seek to understand tarot are inevitably greeted with the anti-intellectual, 
+anti-historical, superficially authoritative, rhetorical bulwark created by 
+Freemasons, Rosicrucians, and Golden Dawn mages. One might doubt 
+the initial magical, mystical, spiritual important of the deck as repre
+sented by members of these men’s huts, but then encounter a Jungian 
+psychological’s modern rationale and explanation that obscures ideology 
+in a new way. 
+There are other challenges. Writings on esoteric topics are often filled 
+with obtuse, complicated language filled with “tortuous.... correspond
+ences” (Dummett 1980, 130), arbitrary associations, and grammatical 
+complexity horrid enough to invoke comment and condemnation, some 
+of it tongue-in-cheek,14 from scholars. Pompous verbiage is a rhetorical 
+strategy, a verbal sleight-of-hand trick, designed to make a text appear 
+authoritative. It fools the naïve outsider in the same way that Dorothy 
+was initially fooled by the Wizard of Oz. It also makes actual investiga
+tion difficult. How can one question the authority of a sacred text if one 
+cannot decipher the verbiage? Crowley’s ponderous exposition of the 
+secrets of Enochian magic (Crowley 1912b; 1912c) are illustrative, but 
+not the only one. The type of discussion presented in the work of the 
+14.  See for example my definition of Egotistical, Polly-syllabic, Multi-metaphor
+ic, Obfuscation (EPMO) http://www.thespiritwiki.com/index.php/EPMO.
+378 © Canadian Journal of SoCiology/CahierS CanadienS de SoCiologie 39(3) 2014
+ ‘brothers’ may be found the work of spiritually inclined (but ideologic
+ally näive) psychologists as well (see, for example, Wilber 1996; 2000).
+ diSCuSSion
+ The intent of this paper is not to expose in detail the underlying ideology 
+of the tarot major arcana, that is the task of a subsequent paper entitled 
+The Ideology of Tarot (Sosteric, in progress), but rather to demonstrate 
+that such work is both needed and possible. In other words, this article 
+has tried to establish the need for a sociology of the Western tarot spe
+cifically, and a sociology of the occult more generally. This Sociology 
+of Tarot includes a sociology of how those who practiced tarot used 
+the decks in ways that related to changing relations of class, discipline, 
+power, and ideology. It appears that tarot was invented as a deck of play
+ing cards, reflecting the life and times of significant Italian families, but 
+became implicated in the double revolutions that collapsed structures 
+of feudal authority, and legitimated new systems of social authority and 
+discipline. The tarot deck was a useful tool for this purpose because the 
+imagery was already linked to elite practice (having been invented in the 
+courts of Italy), already had suitable iconography (kings, queens, and 
+popes), was plastic and could be ‘imprinted’ with additional symbolism, 
+and eventually became used as an initiatory device in secret societies 
+and new religious sects emerging at this time. Work to establish the oc
+cult authority of the deck was accomplished by prominent Freemasons, 
+clerics, and members of the transitioning elite. The net result was a deck 
+of superb ideological brilliance and utility, capable not only of indoc
+trinating members of secret organizations, but also of imprinting mass 
+consciousness with elite ideology.
+ Although one might initially feel that a sociology of the tarot would 
+only be of historical interest, that is not the case. The movement of tarot 
+ideology into the mass consciousness, as encouraged by Crowley and 
+his brothers for example, has left an unchallenged (and potentially quite 
+significant) ideological imprint. Coupled with the recent proliferation of 
+superstition, ignorance, and irrationalities of modern society as noted by 
+Bauer (2011), and the uncritical way tarot aficionados (even academic 
+ones) take up the ideology (e.g. Place 2005), the social impact of tarot 
+in contemporary society may be taken too lightly. Doering-Manteufell 
+(2011) found a dramatic spread of superstitions that uses modern com
+munication technologies as a means to proliferate occult (read ideologic
+al) practice. This is particularly evidenced in the proliferation of tarot 
+decks. Today literally hundreds of tarot decks are in print, all representing 
+a SoCiology of tarot                                  
+ 379
+ the author’s particular views, but almost all of them echoing iconic Ma
+sonic imagery and interpretation (Farley 2009). More than ever, socio
+logical analysis in the occult tarot specifically, or occult phenomenon 
+more generally, seems warranted.
+ Sociological investigation would include analysis of ideology and 
+control that might explore links between the tarot and the ideological im
+portance of religion (Weber 2003), or disciplinary control strategies iden
+tified by Foucault (1975) and others. There are also dialogic questions 
+about the rhetorical strategies used not only to obscure the true nature of 
+elite ideology embedded in the tarot system, but also to lend occult and 
+spiritual authority to the tarot (Fairclough 2001). These strategies have 
+only been touched on in this paper, but other strategies are evident and 
+need to be exposed.15 Finally, the psychology of the tarot, specifically its 
+use in dramatic ritual and initiation pageantry, and its utility as a device 
+of indoctrination, are also interesting questions worthy of sociological 
+examination.
+ It is also useful to note that the history of tarot and the occult are not 
+just class histories, they are histories of patriarchy and racism. As noted 
+earlier, sexism is imprinted on the very structure of men’s huts, and for 
+all the mystical wisdom offered up, the sexism is prominent and often of
+fensive, especially in dominant figures like Aleister Crowley [see for ex
+ample the opening words of the Crowley editorial in the inaugural edition 
+of Equinox (Crowley 1912)]. Racism also figures in the principal texts 
+of theosophical movement [see Blavatsky 1888; Besant 1907 and 1911), 
+and Besant & Leadbeater (1913)] where doctrines of spiritual progress, 
+reincarnation, and karma are based on racial frameworks and derogatory 
+characterizations of “non-Aryan” racial groups (Staudenmaier 2009, 52). 
+Even contemporary Masons exclude women from consecrations of their 
+lodges. In this context, it is important to point out that in the Masonic 
+tarot, the Fool (the tarot ‘signature’ card representing the subject of the 
+initiatory/evolutionary journey) is inevitably white, male, and young.
+ Berger (1969) assumed that Western societies would experience 
+decline of spiritual and religious belief, and increased secularization. 
+15. For example, some authors will simply state truths as obvious, self-evident, 
+and needing no authority, investigation, or elaboration. This questionable 
+(and one would think academically transparent) rhetorical device is used, for 
+example, by Place (2005, 75) who makes bald faced rhetorical claims about 
+contested ideological frameworks without even attempting to back his state
+ments up. For example, referencing the mystical vision of Levi, Place echoes 
+elite ideology in the form of justifications of gender, and mystical cosmic 
+dances between good and evil (Sosteric, unpublished), and asserts the ver
+acity of said mystical truths as ‘sophisticated mystical vision’, self-evident, 
+and requiring ‘no authority to verify its timeless truth.’
+380 © Canadian Journal of SoCiology/CahierS CanadienS de SoCiologie 39(3) 2014
+ Berger himself has retracted the thesis, admitting that the secularization 
+project has failed miserably, but rather than giving religion, spirituality, 
+and the occult another look, Berger echoes earlier dismissals by rejecting 
+spiritual and religious belief as “dripping with reactionary supernatural
+ism,” and draws a boundary around its discussion (except as object of 
+scholarly derision), excluding it as “beyond the pale at self-respecting 
+faculty parties” (Berger 1999, 4). This is unfortunate. When talk of the 
+sociology of occult means that you could risk the respect of your col
+leagues, scholars are likely to accept the canonical status quo and find 
+other research interests. 
+This paper defends the need for a new sociology of tarot, occult, and 
+ideology, and an open discussion of the significance and relevance of 
+occult knowledge and practices. Note, however, that it is more than just 
+social class, gender, ethnic, or ideological interest that is at stake here. 
+There is a sociological question raised by all this: “Why do spiritual
+ity, religion, and the occult continue to hold such traction?” The implicit 
+and probably unspoken (except at closed faculty parties) assumption of 
+those who follow Berger probably invokes stupidity, incredulity, and ir
+rationality, but this is hardly an explanation at all. People are not stupid 
+and they do not, in general, believe things for no reason (Sosteric, Under 
+Review). Better causes need to be established. Elites seem to believe 
+in the tarot because it has been constructed by their members to reflect 
+(and help distribute) an ideology supportive of hierarchy, privilege, and 
+control. 
+Still others, like psychologists, have been critical of spiritual be
+liefs since Freud’s (2012) dismissal of religion as an infantile delusion, 
+yet some adopt the tarot as a fountain of mystical/archetypal wisdom 
+in pretty much the same way as established by occult elites. There is 
+also a very long history of very smart people being interested in religion, 
+spirituality, and mystical phenomenon (Verselius  2007). William James, 
+father of American psychology, took religion and mystical experience 
+seriously not as an example of something else (e.g. as a class opiate, 
+or as providing social solidarity, or as a sacred canopy, or as a stepping 
+stone from our superstitious past into our rational future), but as some
+thing worthy of direct and engaged investigation (James 1982). Are these 
+people stupid, irrational, and reactionary as well? Or, moving out of the 
+realm of scholarly inquiry, why does the tarot remain so popular, or why 
+do occult beliefs in general enjoy ongoing popularity. Can it all be dis
+missed as naivety or elite ideology, or is there something else going on 
+with tarot and religion not yet identified by sociologists?
+ Hints may be offered here. In my sociology of religion class, for ex
+ample, I explore the opportunistic nature of religion and spiritual beliefs. 
+a SoCiology of tarot                                  
+ 381
+ It turns out that when one examines the history of religion from a trans
+disciplinary perspective (Lundskow 2008), religious and spiritual beliefs 
+are, as I argue in the course, opportunistic. That is, it is not just tarot that 
+becomes a virtual Rorschach suitable for ideological impregnation by 
+whatever ‘special interest’ group happens to come along; rather, spiritu
+ality and religion in general represent themselves as suitable for the pro
+jection of a political, economic, and other special interests. Religion and 
+spirituality come to express — always and wherever they are found — 
+the social order, environmental realities, and even economic exigencies 
+of a particular society at a particular time. Note however, that elites do 
+not have unilateral control over the consciousness of the masses. Because 
+religion is a resource, spirituality is a (arguably poorly) contested realm. 
+It is the case that progressive or reactionary economic, political, and even 
+gender interests may be inscribed into religious texts. 
+There is some work in this area. Owen (2004) has identified the 
+spiritualism of late Victorian England as a practice and belief system out
+side the dominant patriarchy of the time, and other more contemporary 
+examples may be found, as for example the grass roots, feminist compat
+ible spirituality of Starhawk (Rigiglioso 2005). Religion and spirituality 
+as resource may help explain why it remains a continual thorn in the 
+side of the pundits of secularization. Nevertheless, despite the possibil
+ity of progressive spirituality, the question still remains, “Why do the 
+masses accept these systems so uncritically?” or “Why do reactionary 
+belief systems retain traction?” The persistence of the tarot may, as we 
+have seen, be linked not only to elite machination, infantile fantasy, or 
+opiate derived delusion, but also to basic human needs, needs that are not 
+f
+ illed by the empty secularity of an ‘enlightened’ world (Sosteric 2013). 
+In other words, there is a real psychological thing (a rational thing, an 
+emotional, thing, even a human thing) going on here, and this thing must 
+be taken at face value to be legitimate. Psychologists of the humanistic 
+school have taken the thing seriously in acknowledging needs and mo
+tivations beyond food, water, and shelter, at least since Maslow, who 
+formalized a ‘positive theory of motivation,’ recognized the ‘need’ for 
+self-actualization and transcendence (Maslow 1943). Others also take it 
+seriously as well, suggesting, for example, that people enter into esoteric 
+‘cultic’ communities (tarot being one, generic new age belief systems 
+being another) for rational reasons; for example, because they are dis
+satisfied with solutions offered by religion and science (Jorgensen 1982; 
+Laqueur 1996). In this context individuals may gravitate towards and ac
+cept tarot as the “bible of bibles” Freemasons make it out to be, because 
+they are attempting to satisfy deep needs for spirituality and meaning 
+382 © Canadian Journal of SoCiology/CahierS CanadienS de SoCiologie 39(3) 2014
+ (Sosteric 2013), needs not met, or met inadequately, through other av
+enues of spiritual or religious experience. 
+Finally, a third reason for continued belief in the occult, spiritual, 
+mystical, esoteric, mystery traditions may be because they represent 
+real experiences, real revelation, and real gnosis that undermine normal 
+taken-for-granted reality of our regular 3D world (Lynch 1977; Sosteric 
+Under Review). This suggestion may strike readers as scientific heresy, 
+as indeed it is. But the alternative is to dismiss the collective experiences 
+of billions of people throughout history who have believed in mystical 
+realms beyond the mundane, but also the individual experiences of schol
+ars who have had some powerful mystical experiences (e.g. Castaneda 
+1985). I find myself in this group of scholars whose interests were per
+haps not initially scholarly, but mystical, and whose mystical experiences 
+“broke open the head” (Pinchbeck 2003) and led them to question the 
+materialist foundation of science. Such experiences are of deep scholarly 
+interest (Forman 1999), and fit very well into the gnostic experiences 
+reported by Western mystics down the ages (Versluis 2002). 
+Just as many other scholars use experience to develop scholarly 
+insight, my experiences with tarot, mysticism, and gnostic traditions, 
+have lead me to new sociological understandings. This raises scholarly 
+questions, none of which can be served by out-of-hand, anti-scholarly 
+dismissal. Western mystery schools, occult traditions, even established 
+exoteric institutions like the Roman Catholic Church, all justify their 
+positions, their tools, their bibles, their tarot books, by ascribing them to 
+real mystical, magical, experiences. Christian are told to believe in the 
+bible because it is the word of God, expressed through the mystical rev
+elation of the prophets. Buddhists follow Buddhists tracts because they 
+represent the mystical revelation of Buddha. Freemasons and Protestant 
+clerics offer the tarot as the “bible of bibles” and support its authority in 
+the same way, with claims for its antiquity, and linkages to the mystical 
+experiences of authoritative personages (e.g. Hermes Trismegistus, the 
+Egyptian god Thoth, etc.). This is nothing new. James (1982) said that all 
+religions derive from somebody’s mystical experiences. The point in this 
+paper is simply that gnostic traditions, the words of the mystics, occult 
+‘wisdom’ traditions, ‘mystical tools’ like the tarot, deserve serious and 
+critical inquiry and analysis as such, and there is good reason to apply 
+sociological analysis here. People who have mystical experiences often 
+impress upon them their social class, gender, ethnic, political, and eco
+nomic biases. Nowhere do we find ‘pure’ gnostic truth. Everywhere we 
+f
+ ind opportunistic imprints on spiritual ‘revelation.’ The problem is, if we 
+dismiss spirituality and religion as nothing more than ideology, as salve 
+against existential crises, or as infantile fantasy, not only do we miss an 
+a SoCiology of tarot                                  
+ 383
+ arguably valid area of inquiry (spirituality and gnosis), we also leave a 
+spiritual vacuum, an absence of sociologically sophisticated understand
+ing, that has profound global consequences. As Butler (2006) notes, 
+the Christian Right has been able to gain ascendency in global politics 
+and culture precisely because the Left has abdicated responsibility for 
+providing such meaning. We sociologists have seen the Wizard of Oz, 
+recognized him as a charlatan, and walked away. We have posted signs 
+on the wall saying caveat emptor, but nobody seems to be reading the 
+signs. Why do people continue to genuflect before the Wizard? There is 
+a powerful need operating, and somebody always seems willing to fill it. 
+The problem is that the people who move in, often do so without the best 
+intentions (they have political, economic, gender and racial agendas), 
+or without a sufficient degree of sociological, psychological, physical, 
+chemical, even historical sophistication. The result is active imposition 
+of ideology in the first case, or naïve adoption and unwitting propagation 
+of ideology in the second. I would suggest a grass roots, sociologically 
+sophisticated, spirituality, needs to be offered.
+ Alternatives already exist. Mentioned above is Owen’s (2004) work, 
+but critical, grassroots, spiritual turn already exists, as for example in 
+the ‘goddess movement’ (Rigoglioso 2005, 173). Starhawk is an author 
+actively involved in constructing the Goddess movement as a working
+class, grass-roots, politically sophisticated, active response to injustice, 
+inequality, etc. It combines feminist theology and is interesting for the 
+contested terrain that it represents in the attempt to distinguish ‘authen
+tic’ spiritual paths from ‘fluffy bunny’ paths that are less substantive, 
+more commodified and consumerised, and less serious (Coco & Wood
+ward 2007). The same could be done for tarot. I myself am developing, 
+under a pen name, tarot images and archetypes that a) self-consciously 
+break Masonic ideas, b) represent authentic spiritual gnosis (at least, in 
+my view) and c) attempt to provide a critical, politically progressive, and 
+sociologically sophisticated turn on spiritual/mystical thought in general 
+(Sharp 2006), and the tarot more specifically (Sharp 2009; 2013; unpub
+lished.). It is a response to the call Butler (2006) has made for a critical, 
+substantive, sophisticated, and progressive spirituality, and that Swimme 
+(1988) has made for stories that potentially save us from the increas
+ingly disparate, and desperate, political, economic, and social state of af
+fairs. The lesson of the Goddess movement, and the lesson of the Western 
+tarot, is that there is a space to contest spiritual meaning and gnosis and, 
+more importantly, there is a space (and a need) for sociologists to get 
+involved. Exposing the roots of the tarot or other forms of mysticism in 
+elite ideology is only the first step. The next step, for those so inclined, 
+is to create new tarots, new gnostic wisdom, or at least to contribute to 
+384 © Canadian Journal of SoCiology/CahierS CanadienS de SoCiologie 39(3) 2014
+ a respectful, but critical, turn. Head (2012), for example, embraces tarot 
+as a way to bring depth to the experience of being queer. He uses tarot 
+(admittedly the Masonic version) to embrace pride and justify queerness. 
+The point is, the space is there. As sociologists we have but only to move 
+in and fill it. 
+Filling in the religious, spiritual, and occult spaces will no doubt be a 
+challenge, and perhaps one of the biggest challenges will be overcoming 
+scholarly prejudice and actually taking the areas of interest seriously. 
+There have always been attempts to dismiss the investigation of reli
+gion, spirituality, and other boundary phenomenon (Gyimesi 2012; Som
+mer 2012). Nevertheless, while skeptics certainly abound, research into 
+boundary areas shows remarkable longevity (Kloosterman 2012) with 
+notable intellectuals often coming down on the side of belief (Sommer 
+2012). No doubt there will be instances of dismissive ridicule (Stauden
+maier 2009), even outright censure, but such reactions do not represent 
+serious open minded scientific attitudes, but prejudice and fear of the 
+kind associated with religion and dogma, and not science and truth. The 
+whole thing has resulted in a “paucity of responsible scholarship [and] 
+existing research in this area [that] is thin, often neglected, and of inevit
+ably uneven quality” (Staudenmaier 2009, 48 - 49). For reasons outlined 
+in this paper and more, it is a good time to begin alleviating this lacuna, 
+especially now, as there is a growing recognition of the significance of 
+the sacred, religious, boundary phenomenon which are no longer easy 
+to dismiss as mere epiphenomena, but must be taken as significant, im
+portant, and in desperate need of analysis, attention, and understanding 
+(Redden 2011).
+ aCknoWledgementS 
+The author would like to thank Dr. Mike Gismondi and the anonymous 
+reviewers for their helpful comments on earlier drafts of this article.
+ referenCeS
+ Anon. 2012. Private Telephone Conversation with GG, Evangelical Christian.
+ Bala, Michael. 2010: The Clown. Jung Journal: Culture & Psyche 4 (1): 50-71.
+ Barnard, Chester. 1968. The Functions of the Executive. Cambridge, MA: Har
+vard University Press.
+ Bauer, Martin W. 2011. Editorial. Public Understanding of Science 20 (3): 290
+291.
+a SoCiology of tarot                                  
+ 385
+ Beeb, John. 2008. A tarot reading on the possibility of nuclear war. Psychologic
+al Perspectives: A Quarterly Journal of Jungian Thought 16 (1): 97-106.
+ Berger, Peter L. 1969. The Sacred Canopy. New York: Anchor Books. 
+Berger, Peter L. 1999. The Desecularization of the World: Resurgent Religion 
+and World Politics. Grand Rapids MI: Eerdmans.
+ Besant, Annie. 1907. Study in Consciousness: A Contribution to the Science of 
+Psychology. London: Theosophical Publishing House.
+ Besant, Annie. 1911. Man and his Bodies. London: Theosophical Publishing 
+House.
+ Besant, Annie, & Leadbeater, Charles. 1913. Man: Whence, how and whither. 
+London: Theosophical Publishing House.
+ Blavatsky, Helena. 1888. The Secret Doctrine. London: Theosophical Publishing 
+House.
+ Butler, Jennifer. 2006. Born Again: The Christian Right globalized. London: 
+Pluto Press.
+ Case, Paul Foster. 2013. An Introduction to the Study of the Tarot. Gauteng, SA: 
+Ancient Wisdom Publications (originally published in 1920).
+ Castaneda, Carlos 1985. Teachings of Don Juan: A Yaqui Way of Knowledge. 
+Washington: Washington Square Press.
+ Cicero, Chic, & Cicero, Sandra. 2012. The Essential Golden Dawn: An Introduc
+tion to High Magic. Minnesota: Llewellyn.
+ Coco, Angela, & Woodward, Ian. 2007. Discourses of authenticity within a pa
+gan community: The emergence of the “fluffy bunny” sanction. Journal 
+of Contemporary Ethnography 36 (5): 479-504.
+ Collins, H. M. & Pinch, T. J. 1982. Frames of Meaning: The Social Construction 
+of Extraordinary Science. London: Routledge & Kegan Paul.
+ Crowley, Aleister. 1909. Editorial. Equinox 1 (1): 1-3. Retrieved April 4, 2013, 
+from http://hermetic.com/crowley/equinox/equinox-Ii.pdf
+ Crowley, Aleister. 1912a. Editorial. Equinox 1 (8): xxiii-xxvi. Retrieved April 4, 
+2013, from http://hermetic.com/crowley/equinox/equinox-Iviii.pdf
+ Crowley, Aleister. 1912b. A brief abstract of the symbolic representation of the 
+universe derived by Doctor John Dee through the skrying of Sir Edward 
+Kelly. Equinox 1 (7): 229-243. Retrieved April 4, 2013, from http://her
+metic.com/crowley/equinox/equinox-Ivii.pdf 
+Decker, Ronald, & Dummett, Michael. 2002. A History of the Occult Tarot, 
+1870-1970. London: Duckworth.
+ Decker, R., Depaulis, T., & Dummett, M. 1996. A Wicked Pack of Cards: The 
+Origins of the Occult Tarot. New York: St Martin’s Press.
+386 © Canadian Journal of SoCiology/CahierS CanadienS de SoCiologie 39(3) 2014
+ Devereux, G., ed. 1953. Psychoanalysis and the Occult. New York: International 
+Universities Press.
+ Dobb, Maurice 1972. Studies in the Development of Capitalism. New York: Tay
+lor & Francis.
+ Doering-Manteuffel, Sabine. 2011. Survival of occult practices and ideas in mod
+ern common sense. Public Understanding of Science 20 (3): 292-302.
+ Dummett, Michael. 1980. The Game of Tarot. London: Duckworth.
+ Dummett, Michael. 2007. Six XV-century tarot cards. Who painted them? Arti
+bus et Historiae. 28 (56): 15-26.
+ Durkheim, Emile. 1915. The Elementary Forms of Religious Life: A Study in 
+Religious Sociology. London: Allen & Unwin. Retrieved April 4, 2013, 
+from http://archive.org/details/elementaryformso00durkrich
+ Elias, Norbert. 1994. The Civilizing Process: The History of Manners and State 
+Formation and Civilization. Oxford: Blackwell.
+ Farley, H. 2009. A Cultural History of Tarot. London: I.B. Tauris
+ Fairclough, Norman 2001. Language and Power. Toronto: Pearson Education 
+ESL.
+ Collins, H. M., & Pinch, T. J. 1982. Frames of Meaning: The Social Construc
+tion of Extraordinary Science. London: Routledge & Kegan Paul.
+ Forman, Robert. 1999. Mysticism, Mind, Consciousness. Albany: State Univer
+sity of New York Press.
+ Foucault, Michael. 1975. Discipline and Punish: The Birth of the Prison. New 
+York: Vintage.
+ Freud, Sigmund. 2012. The Future of an Illusion. Buffalo: Broadview Press.
+ Gad, I. 1994. Tarot and Individuation: Correspondences with Cabala and Al
+chemy. York Beach, ME: Nicholas-Hays.
+ Gorski, Philip S. 1993. The Protestant ethic revisited: Disciplinary revolution 
+and state formation in Holland and Prussia. American Journal of Sociol
+ogy 99 (2): 265-316. 
+Gyimesi, Julia. 2012. Sandor Ferenczi and the Problem of Telepathy. History of 
+the Human Sciences 25 (2): 131-148.
+ Hammer, Olav. 2004. Claiming Knowledge: Strategies of Epistemology from 
+Theosophy to the New Age. Leiden: Brill. 
+Hanegraaff, Wouter, J. 2005. Forbidden knowledge: Anti-esoteric polemics and 
+academic research. Aries 5 (2): 225-54.
+ Head, Al. 2012. The queer fool. Sexualities 15 (3): 3-10.
+ Hess, D. J. 2007. Spirits and Scientists: Ideology, Spiritism, and Brazilian Cul
+ture. Pennsylvania: Penn State University Press.
+a SoCiology of tarot                                  
+ 387
+ Horn, Eva. 2011. Logics of political secrecy. Theory, Culture & Society 28 (7-8): 
+103-122.
+ Ivtzan, Itai. 2007. Tarot cards: A literature review and evaluation of psychic ver
+sus psychological explanations. Journal of Parapsychology 71 (Spring): 
+139-149.
+ Jacob, Margaret C. 1981. The Radical Enlightenment. Pantheists, Freemasons 
+and Republicans. London: Allen and Unwin.
+ Jayanti, Amber. 1988. Living the Tarot: Applying an Ancient Oracle to the Chal
+lenges of Modern Life. London: Wordsworth.
+ Jewkes, Yvonne. 2005. Men behind bars: “Doing” masculinity as an adaptation 
+to imprisonment. Men and Masculinities 8 (1): 44-63.
+ Jorgensen, Danny L. 1982. The esoteric community: an ethnographic investi
+gation of the cultic milieu. Journal of Contemporary Ethnography 10: 
+383-407.
+ Jorgensen, Danny L., & Jorgensen, Lin. 1982. Social meanings of the occult. The 
+Sociological Quarterly 23 (3): 373-389.
+ Kieser, Alfred. 1998. From Freemasons to industrial patriots. Organizing and 
+disciplining in 18th century Germany. Organization Studies 19 (1): 47
+71.
+ Kloosterman, Ingrid. 2012. Psychical research and parapsychology interpreted: 
+Suggestions from the international historiography of psychical research 
+and parapsychology for investigating its history in the Netherlands. His
+tory of the Human Sciences 25 (2): 2-22.
+ Knoop, Douglas, and Jones, G. P. 1947. The Genesis of Freemasonry. An Ac
+count of the Rise and Development of Freemasonry in its Operative, Ac
+cepted and Early Speculative Phases. Manchester: Manchester Univer
+sity Press.
+ Koselleck, R. 1988. Critique and Crisis: Enlightenment and the Pathogenesis of 
+Modern Society. Oxford: Berg. 
+Lachman, Gary. 2011. Secret Societies. Retrieved April 3, 2013, from http://
+ garylachman.co.uk/2011/10/18/secret-societies/
+ Levi, Eliphas. 2002. The Key of the Mysteries. New York: Red Wheel/Weiser.
+ Laqueur, Walter. 1996. Fin-de-siècle: Once more with feeling. Journal of Con
+temporary History 31 (1): 5-47.
+ Lundskow, George. 2008. The Sociology of Religion: A Substantive and Trans
+disciplinary Approach. London: Pine Forge Press.
+ Maitre, J. & Becker, Chris. 1966. The consumption of astrology in contemporary 
+society. Diogenes 14 (53): 82-98.
+ Mannheim, Ernst. 1979. Aufklärung und öffentliche Meinung. Studien zur 
+Soziologie der Öffentlichkeit in 18. Jarhundert. Hrsg. v. Norbert Schin
+dler. Stuttgart-Bad Cannstadt: Frommann-Holzboog. 
+388 © Canadian Journal of SoCiology/CahierS CanadienS de SoCiologie 39(3) 2014
+ Marx, Karl. 1848. The Communist Manifesto. Retrieved April 4, 2013, from. 
+http://www.marxists.org/archive/marx/works/1848/communist-mani
+festo/
+ Maslow, Abraham. 1943. A theory of human motivation. Psychological Review 
+50: 270-296. Retrieved April 4, 2013 from http://psychclassics.yorku.ca/
+ Maslow/motivation.htm
+ Mathers, MacGregor. 2008. The tarot. Its occult significance, use in fortune
+telling & method of play. Retrieved April 4, 2013 from the website of 
+the Esoteric Order of the Golden Dawn: http://www.esotericgoldendawn.
+ com/mysteries_tarot_tarotmathers.htm
+ McLaughlin, T. 1996. Street Smarts and Critical Theory. Madison: University 
+of Wisconsin Press.
+ Miller, David, & Dinan, William. 2007. A Century of Spin: How Public Relations 
+Became the Cutting Edge of Corporate Power. New York: Pluto Press.
+ Nasierowski, Tadeusz, & Britman, Jonathan. 2012. Freemasonry and psychiatry 
+in Poland. History of Psychiatry 23 (3): 329-341.
+ Nichols, Sallie. 1974. The wisdom of the Fool. Psychological Perspective: A 
+Quarterly Journal of Jungian Thought 5 (2): 97-116.
+ Nichols, Sallie. 1980. Jung and Tarot: An Archetypal Journey. San Francisco: 
+Weiser Books.
+ Nicholson, Christina 2003. How to believe six impossible things before break
+fast: Irigaray, Alicer, and Neo-pagan negotiation of the otherworld. Fem
+inist Theology 11: 362-74.
+ Noddings, N. and P. Shore. 1984. Awakening the Inner Eye: Intuition in Educa
+tion. New York: Teachers College, Columbia University.
+ Ouspensky, P. D. 1976. The Symbolism of the Tarot: Philosophy of Occultism in 
+Pictures and Numbers. Mineola, NY: Dover Publications.
+ Owen, A. 2004. The Darkened Room: Women, Power and Spiritualism in Late 
+Victorian England. Chicago: University of Chicago Press.
+ Place, Robert M. 2005. The Tarot: History, Symbolism, and Divination. New 
+York: Jeremy P. Tarcher.
+ Pollack, Rachel. 1980. Seventy-eight Degrees of Wisdom: A Book of Tarot. 
+Wellingborough, Northhampton: Aquarian Press.
+ Pratesi, Franco. 1989. Tarot in bologna: documents from the university library. 
+The Playing-card 17 (4): 136-146. Retrieved April 4, 2013, from http://
+ trionfi.com/pratesi-cartomancer
+ Redden, Guy. 2011. Religion, cultural studies and New Age sacralization of 
+everyday life. European Journal of Cultural Studies 14 (6): 649-663.
+ Remy, J. 1990. Patriarchy and fratriarchy as forms of andocracy. In J. Hearn & 
+D. Morgan (Eds.), Men, masculinity and social theory. London: Allen & 
+Unwin.
+a SoCiology of tarot                                  
+ 389
+ Rigoglioso, Marguerite. 2005. Interview with Starhawk. Feminist Theology 13: 
+173-183.
+ Robbins, T., & Anthony, D. The sociology of contemporary religious move
+ments. Annual Review of Sociology 5: 75-89.
+ Roberts, John M. 1972. The Mythology of the Secret Societies. New York: Scrib
+ner.
+ Rosengarten, Arthur. 2000. Tarot and psychology: Spectrums of possibility. St 
+Paul, MN: Paragon House. 
+Rossi, E. L. 1986. The Psychobiology of Mind-body Healing. New York: Norton.
+ Rudin, Marcia R. 1990. Cults and satanism: Threats to teens. NASSP Bulletin 74 
+(526): 46-52.
+ Santarcangeli, Paolo. 1979. The jester and the madman, heralds of liberty and 
+truth. Diogenes 27 (106): 28-40.
+ Schindler, Norbert. 1982. Freimaurerkulture in 18. Jahrhundert. Zur sozialen 
+funktion des geheimnisses in der entstehenden bürgerlichen gesellschaft. 
+In R. M. Berdahl et al. (Eds.). Klassen und culture: Sozialanthropolo
+gische perspektiven in der geschichtsschreibung. Frankfurt an Main: 
+Syndicat. 
+Sech, Alexandre, de Freitas, Saulo, & Moreira-Almeida, Alexander. (2013). Wil
+liam James and psychical research: Towards a radical science of mind. 
+History of Psychiatry 24 (1): 62-78
+ Semetsky, Inna. 2000. Symbolism of the Tower as abjection. Parallax 6 (2): 110
+122.
+ Semetsky, Inna.  2009. Transforming ourselves/transforming curriculum: Spirit
+ual education and tarot symbolism. International Journal of Children’s 
+Spirituality 14 (2): 105-120
+ Semetsky, Inna. 2010a. Interpreting the signs of the times: Beyond Jung. Social 
+Semiotics 20 (2): 103-120.
+ Semetsky, Inna. 2010b. When Cathy was a little girl: The healing praxis of tarot 
+images. International Journal of Children’s Spirituality 15 (1): 59-72.
+ Semetsky, Inna. 2011a. Tarot images and spiritual education: The three I’s mod
+el. International Journal of Children’s Spirituality 16 (3): 249–260.
+ Semetsky, Inna. 2011b. Re-symbolization of the self: Human development and 
+tarot hermeneutic. Rotterdam: Sense Publishers.
+ Simmel, Georg. 2006. The sociology of secret societies. American Journal of 
+Sociology 11: 441-498.
+ Sharp, M. (2006). The Book of Light: The Nature of God, the Structure of Con
+sciousness, and the Universe Within You (Vol. One - Air). St. Albert, Al
+berta: Lightning Path Press.
+390 © Canadian Journal of SoCiology/CahierS CanadienS de SoCiologie 39(3) 2014
+ Sharp, M. (2009). The Book of the Triumph of Spirit: Halo/Sharp New Energy 
+Archetypes. St. Albert: Lightning Path Press.
+ Sharp, M. (2013). The Book of Triumph of Spirit: Healing and Activating with 
+the Halo/Sharp System. St. Albert: Lightning Path Press.
+ Sharp, M. (unpublished). The Book of the Triumph of Spirit: Master Key. St Al
+bert, Alberta: Lightning Path Press.
+ Sommer, Andreas. 2012. Psychical research and the origins of American psych
+ology: Hugo Munsterberg, William James and Eusapia Palladino. His
+tory of the Human Sciences 25 (2): 23-44.
+ Sosteric, M. (under review) Doing the Sociology of Religion. 
+Sosteric, Mike. 2013. Sociology 231: Sociology of religion. Athabasca, AB: 
+Athabasca University.
+ Sosteric, Mike. (in progress) The Ideology of Tarot.
+ Sosteric, Mike. (in progress(a)). Inscribing a Revolutionary Tarot: The “New 
+Energy” Halo/Sharp. 
+Spain, D. (1992). Gendered spaces. Chapel Hill: University of North Carolina 
+Press. 
+Spiegelman, Marvin J. 1998. The scientific and mythological basis of divination. 
+Psychological Perspectives: A Quarterly Journal of Jungian Thought 37 
+(1): 92-107.
+ Staudenmaier, Peter. 2009. Occultism, race and politics in German-speaking 
+Europe, 1880—1940: A Survey of Historical Literature. European His
+tory Quarterly 39: 47-70.
+ Steiner, Rudolf. 1957. Occult history. London: Rudolf Steiner Press.
+ Stone, Alison. 2006. Adorno and the disenchantment of nature. Philosophy & 
+Social Criticism 32 (2): 231-253.
+ Swimme, B. (1988). The Cosmic Creation Story. In D. R. Griffin (Ed.), The 
+Reenchantment of Science (pp. 47-56). New York: State University of 
+New York.
+ Truzzi, M. 1974a. Definitions and dimensions of the occult: Towards a socio
+logical perspective. In E. A. Tiryakian (Ed.), On the margin of the visible: 
+Sociology, the esoteric and the occult (pp. 243-257). New York: John 
+Wiley.
+ Truzzi, M. 1974b. Towards a sociology of the occult: Notes on modern witch
+craft. In I. I. Zaretsky and M. P. Leone (Eds.), Religious movements in 
+contemporary America (pp. 628-645). Princeton, NJ: Princeton Univer
+sity Press.
+ Versluis, Arthur. 2007. Magic and Mysticism: An Introduction to Western Esoter
+icism. New York: Rowan and Littlefield.
+a SoCiology of tarot                                  
+ 391
+ van Dülmen, Richard. 1986. Die gesellschaft der aufklärer. Zur bürgerlichen 
+emanzipation und aufklärerischen kultur in Deutschland. Frankfurt am 
+Main: Fischer. 
+Von Eckartshausen, Councillor. 1909. An Account of A ∴ A ∴ first written in 
+the language of his period. Equinox 1(1). Retrieved April 4, 2013, from 
+http://hermetic.com/crowley/equinox/i/i/eqi01003.html Weatherly, Joan. 
+1986. Yeats, the tarot, and the Fool. College Literature 13(1): 112-121.
+ Weber, Max. 1987. The Sociology of Religion (4th ed.). Boston: Beacon.
+ Weber, Max. 2003. The Protestant Ethic and the Spirit of Capitalism. London: 
+Dover.
+ Wilber, Ken. 1996 The Atman Project: A Transpersonal View of Human De
+velopment. Wheaton, IL: Quest Books.
+ Wilber, Ken. 2000. Integral Psychology. Boston: Shambhala.
+ Wilber, Ken. 2001. Quantum Questions: Mystical Writings of the World’s Great 
+Physicists. Boston: Shambhala.
+ Wood, Juliette. 1998. The Celtic tarot and the secret tradition: A study in modern 
+legend making. Folklore 109: 15-24.
+ Woofitt, Robin. 2000. Some properties of the interactional organization of dis
+plays of paranormal cognition in psychic-sitter interaction. Sociology 34 
+(3): 457-479.
+ Yates, Frances A. 1975. The Rosicrucian Enlightenment. London: Paladin.
+ Zaretsky, I. I. and Leone, M. P. (eds.). 1974. Religious Movements in Contempor
+ary America. Princeton, NJ: Princeton University Press.
+ Mike Sosteric is Associate Professor of Sociology at Athabasca University. He 
+teaches the Sociology of Religion, Sociology of Technology, and Science and 
+Mysticism courses. He is the coordinator and author of several successful sociol
+ogy courses. He is currently working to establish a Sociology of the Occult and 
+a Sociology of Tarot and has created his own critically oriented tarot deck, the 
+Halo/Sharp deck.
+392 © Canadian Journal of SoCiology/CahierS CanadienS de SoCiologie 39(3) 2014

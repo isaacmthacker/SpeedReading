@@ -2,18 +2,13 @@ final int FPS = 60;
 int frameCounter = 0;
 int frameUpdate = 0;
 //Word change speed - how often to update line on page to start
-float UpdateTime = 3.0; //update every 2 seconds
+float UpdateTime = 3.0; //Update time in seconds
 float UpdateTimeStep = 0.25;
 
 
-//TODO: Move to separate files
-//TODO: how to easily toggle between display methods?
-//    split into classes with inheritance?
 //TODO: Go by words per minute
 //TODO: Handle resizing
-//    specific option to resize?
 //    why could not stretch window?
-//TODO: Restart with chosen method
 
 //TODO: Line by line in middle
 //TODO: Line by line by in different places
@@ -135,7 +130,7 @@ void setup() {
   windowResizable(true);
   frameRate(FPS);
   CalculateDrawingTime();
-  reader = createReader("news.txt");
+  reader = createReader("tarot.txt");
   //TODO: Add error message if cannot open file
   //reader = createReader("abstract.txt");
   ArrayList<String> document = ReadFile();
@@ -195,6 +190,7 @@ void keyPressed() {
     println("Changing mode");
     methodIndex = (methodIndex + 1) % methods.length;
     display = methods[methodIndex];
+    ForceDisplayUpdate();
   }
   if (key == 'r') {
     //restart
@@ -210,7 +206,7 @@ void keyPressed() {
     TIMER_ENABLED = !TIMER_ENABLED;
     PAUSED = false;
   }
-  println(keyCode);
+  //println(keyCode);
   if (keyCode == 38) {
     //UP
     UpdateTime += UpdateTimeStep;
@@ -229,11 +225,16 @@ void keyPressed() {
     }
   }
   if (keyCode == 37) {
+    //Left Arrow
     //TODO: See why display isn't updating if timer is disabled
     display.Back();
+    if (PAUSED || !TIMER_ENABLED) {
+      display.GetNextChunk();
+    }
     ForceDisplayUpdate();
   }
   if (keyCode == 39) {
+    //Right Arrow
     display.GetNextChunk();
     ForceDisplayUpdate();
   }

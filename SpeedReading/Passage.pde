@@ -11,6 +11,8 @@ public class Passage extends DisplayMethod {
       lines[i] = "";
     }
     history = new Stack<Integer>();
+    //Always make sure start is in the stack
+    history.push(0);
   }
 
   void Resize(float newX, float newY, float newW, float newH) {
@@ -42,8 +44,13 @@ public class Passage extends DisplayMethod {
   }
 
   void GetNextChunk() {
+    //println("Passage GetNextChunk");
+    if (history.peek() != curIndex) {
+      history.push(curIndex);
+    }
+    //println(history);
     curLine = "";
-    println(curIndex, document.size());
+    //println(curIndex, document.size());
     int updatedLines = 0;
     for (int i = 0; i < numLines; ++i) {
       lines[i] = "";
@@ -70,7 +77,20 @@ public class Passage extends DisplayMethod {
     y = h/2.0 + minY;
   }
   void Back() {
-    println("Back Not implemented");
+    //println("Passage Back");
+    if (!history.empty()) {
+      //println("Before pop: ");
+      //println(history);
+      history.pop();
+      //Ensure something is left in the stack
+      if (history.empty()) {
+        history.push(0);
+      }
+      //println("After pop:");
+      //println(history);
+      curIndex = history.peek();
+      //println("Back: new index: ", curIndex);
+    }
   }
   void Forward() {
     println("Forward Not implemented");
