@@ -11,7 +11,7 @@ r: Restart from the beginning of the document
 
 t: Enable/Disable timer
 
-f: Allows user to select text file to read
+o: Allows user to select text file to read
 
 Up Arrow: Increase delay between text changes 
 
