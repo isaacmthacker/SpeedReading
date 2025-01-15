@@ -173,8 +173,6 @@ void setup() {
 
     //todo: put into function
     buttons = new ArrayList<Button>();
-    buttons.add(new PausePlayButton(width/2.0, height-(height*bottomControlSize), 30));
-    buttons.add(new OpenFileButton(width/2.0, height/2.0, 50, 50));
 
     //todo: put into function
     crazyLine = new CrazyLine(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), fontSize);
@@ -256,6 +254,9 @@ void keyPressed() {
   if (key == 't') {
     TIMER_ENABLED = !TIMER_ENABLED;
     PAUSED = false;
+  }
+  if(key == 'f') {
+    selectInput("Choose a text file to open", "OpenSelectedFile");
   }
   //println(keyCode);
   if (keyCode == 38) {
