@@ -37,7 +37,21 @@ int methodIndex = 0;
 DisplayControl displayControl;
 SingleLineControl singleLineControl;
 
+
+ArrayList<Button> buttons;
+
+String fileName = "place-text-here.txt";
+
 //=====================================================================
+//todo: see if this needs to be in main or can be in a class
+void OpenSelectedFile(File selection) {
+  if (selection != null) {
+    println(selection.getAbsolutePath());
+    fileName = selection.getAbsolutePath();
+    setup();
+  }
+}
+
 
 //Draws the back, start/stop, and next controls
 //TODO: Maybe tie back/next to paragraphs?
@@ -141,7 +155,7 @@ void setup() {
   windowResizable(true);
   frameRate(FPS);
   CalculateDrawingTime();
-  reader = createReader("place-text-here.txt");
+  reader = createReader(fileName);
   //TODO: Add error message if cannot open file
   if (reader == null) {
     DrawErrorScreen();
@@ -157,6 +171,12 @@ void setup() {
     SingleLineControl singleLineControl = new SingleLineControl(0, 0, width*leftControlSize, height);
     displayControl = singleLineControl;
 
+    //todo: put into function
+    buttons = new ArrayList<Button>();
+    buttons.add(new PausePlayButton(width/2.0, height-(height*bottomControlSize), 30));
+    buttons.add(new OpenFileButton(width/2.0, height/2.0, 50, 50));
+
+    //todo: put into function
     crazyLine = new CrazyLine(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), fontSize);
     normalLine = new NormalLine(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), fontSize);
     passage = new Passage(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), fontSize);
@@ -185,14 +205,30 @@ void draw() {
 
   String modeStr = "Mode: " + methodIndex;
   text(modeStr, width - textWidth(modeStr), height-(height*bottomControlSize)/2.0);
+
+  for (Button b : buttons) {
+    b.Display();
+  }
 }
 
 //On mouse click
 void mouseClicked() {
-  if (TIMER_ENABLED) {
-    PAUSED = !PAUSED;
-  } else {
-    display.GetNextChunk();
+
+  boolean clickedButton = false;
+  for (Button b : buttons) {
+    if (b.Clicked()) {
+      b.OnClick();
+      clickedButton = true;
+      break;
+    }
+  }
+
+  if (!clickedButton) {
+    if (TIMER_ENABLED) {
+      PAUSED = !PAUSED;
+    } else {
+      display.GetNextChunk();
+    }
   }
 }
 
