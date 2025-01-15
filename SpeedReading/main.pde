@@ -151,7 +151,7 @@ void setup() {
     println("Total words in document: " + document.size());
 
     int fontSize = 30;
-    PFont myFont = createFont("opendyslexic-0.910.12-rc2-2019.10.17\\OpenDyslexic-Regular.otf", 30);
+    PFont myFont = createFont("opendyslexic-0.910.12-rc2-2019.10.17//OpenDyslexic-Regular.otf", 30);
     textFont(myFont);
 
     SingleLineControl singleLineControl = new SingleLineControl(0, 0, width*leftControlSize, height);
