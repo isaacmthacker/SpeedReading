@@ -255,10 +255,9 @@ void keyPressed() {
     TIMER_ENABLED = !TIMER_ENABLED;
     PAUSED = false;
   }
-  if(key == 'f') {
+  if(key == 'o') {
     selectInput("Choose a text file to open", "OpenSelectedFile");
   }
-  //println(keyCode);
   if (keyCode == 38) {
     //UP
     UpdateTime += UpdateTimeStep;
