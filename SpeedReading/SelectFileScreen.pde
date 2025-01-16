@@ -1,7 +1,10 @@
 public class SelectFileScreen extends DisplayMethod {
+
+  public SelectFileScreen(int fS) {
+    fontSize = fS;
+  }
   void Display() {
     String openFileText = "Select file to open";
-    int fontSize = 30;
     textSize(fontSize);
     background(255);
     fill(0);
@@ -14,7 +17,7 @@ public class SelectFileScreen extends DisplayMethod {
   }
   void Forward() {
   }
-  void Resize(float newX, float newY, float newW, float newH) {
+  void Resize(float newX, float newY, float newW, float newH, int fontSize) {
   }
   void LimitTextToDisplayArea() {
   }

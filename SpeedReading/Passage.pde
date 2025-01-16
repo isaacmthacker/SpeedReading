@@ -4,8 +4,7 @@ public class Passage extends DisplayMethod {
   Passage(ArrayList<String> doc, float xx, float yy, float ww, float hh, int fS) {
     document = doc;
 
-    Resize(xx, yy, ww, hh);
-    SetFontSize(fS);
+    Resize(xx, yy, ww, hh, fS);
     textSize(fontSize);
     for (int i = 0; i < numLines; ++i) {
       lines[i] = "";
@@ -15,12 +14,13 @@ public class Passage extends DisplayMethod {
     history.push(0);
   }
 
-  void Resize(float newX, float newY, float newW, float newH) {
+  void Resize(float newX, float newY, float newW, float newH, int newFontSize) {
     minX = newX;
     minY = newY;
     w = newW;
     h = newH;
     idealLength = w;
+    SetFontSize(newFontSize);
   }
 
   void Display() {

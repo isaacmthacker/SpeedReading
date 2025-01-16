@@ -40,7 +40,13 @@ SingleLineControl singleLineControl;
 
 ArrayList<Button> buttons;
 
+FontChangeSquareButton increaseFont;
+FontChangeSquareButton decreaseFont;
+
 String fileName = "";
+
+int FONT_SIZE = 30;
+final int FONT_STEP = 1;
 
 //=====================================================================
 //todo: see if this needs to be in main or can be in a class
@@ -68,7 +74,7 @@ void DrawControls() {
   } else {
     timerStatusText = "Disabled";
   }
-  text(timerStatusText, width/2.0 - textWidth(timerStatusText)/2.0, height-(height*bottomControlSize)/2.0);
+  text(timerStatusText, width/2.0 - textWidth(timerStatusText)/2.0, height-(height*bottomControlSize)/2.0 + FONT_SIZE/2.0);
 
   //Bottom display control
   rect(0, height-(height*bottomControlSize), width, height*bottomControlSize);
@@ -129,7 +135,7 @@ void SecondDelay() {
 
 //Draws pause splash screen
 void DrawPauseScreen() {
-  text(PAUSED_TEXT, width/2.0 - textWidth(PAUSED_TEXT)/2.0, 30);
+  text(PAUSED_TEXT, width/2.0 - textWidth(PAUSED_TEXT)/2.0, FONT_SIZE);
 }
 
 //Update how often we update the drawn line based on the update time
@@ -137,6 +143,7 @@ void CalculateDrawingTime() {
   frameUpdate = int(float(FPS) * UpdateTime);
 }
 
+//Selection method used to open file explorer to choose a file to read
 void SelectFile() {
   selectInput("Choose a text file to open", "OpenSelectedFile");
 }
@@ -151,27 +158,22 @@ void setup() {
   frameRate(FPS);
   CalculateDrawingTime();
 
-  int fontSize = 30;
-
   PFont myFont;
-  myFont = createFont("opendyslexic-0.910.12-rc2-2019.10.17//OpenDyslexic-Regular.otf", fontSize);
+  myFont = createFont("opendyslexic-0.910.12-rc2-2019.10.17//OpenDyslexic-Regular.otf", FONT_SIZE);
   if (myFont == null) {
-    myFont = createFont("Arial", fontSize);
+    myFont = createFont("Arial", FONT_SIZE);
   }
   //Use imported font or Arial
-  //If we couldn't import Arial, just don't try to set the font
+  //If we couldn't import Arial, just don't set the font
   if (myFont != null) {
     textFont(myFont);
   }
 
   //Open file selector if no file
-  if (fileName == "") {
-    SelectFile();
-  }
   reader = createReader(fileName);
   //Failed to open file
   if (reader == null) {
-    SelectFileScreen selectFileScreen = new SelectFileScreen();
+    SelectFileScreen selectFileScreen = new SelectFileScreen(FONT_SIZE);
     display = selectFileScreen;
     methods = new DisplayMethod[] { selectFileScreen };
   } else {
@@ -180,9 +182,9 @@ void setup() {
 
 
     //todo: put into function
-    crazyLine = new CrazyLine(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), fontSize);
-    normalLine = new NormalLine(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), fontSize);
-    passage = new Passage(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), fontSize);
+    crazyLine = new CrazyLine(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), FONT_SIZE);
+    normalLine = new NormalLine(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), FONT_SIZE);
+    passage = new Passage(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), FONT_SIZE);
 
     methods = new DisplayMethod[] { crazyLine, normalLine, passage };
 
@@ -190,6 +192,10 @@ void setup() {
   }
 
   buttons = new ArrayList<Button>();
+  float buttonSize = width*0.05;
+  println(buttonSize);
+  increaseFont = new FontChangeSquareButton(buttonSize/2.0, height/2.0 - buttonSize, buttonSize/2.0, buttonSize/2.0, true);
+  decreaseFont = new FontChangeSquareButton(buttonSize/2.0, height/2.0 + buttonSize, buttonSize/2.0, buttonSize/2.0, false);
 
   singleLineControl = new SingleLineControl(0, 0, width*leftControlSize, height*(1.0-bottomControlSize));
   displayControl = singleLineControl;
@@ -209,14 +215,17 @@ void draw() {
   }
   //Run the display method
   display.Display();
-  text("Delay: " + UpdateTime + "s", 0, height-(height*bottomControlSize)/2.0);
+  text("Delay: " + UpdateTime + "s", 0, height-(height*bottomControlSize)/2.0 + FONT_SIZE/2.0);
 
   String modeStr = "Mode: " + methodIndex;
-  text(modeStr, width - textWidth(modeStr), height-(height*bottomControlSize)/2.0);
+  text(modeStr, width - textWidth(modeStr), height-(height*bottomControlSize)/2.0 + FONT_SIZE/2.0);
 
   for (Button b : buttons) {
     b.Display();
   }
+
+  increaseFont.Display();
+  decreaseFont.Display();
 }
 
 //On mouse click
@@ -229,6 +238,21 @@ void mouseClicked() {
       clickedButton = true;
       break;
     }
+  }
+
+  if (increaseFont.Clicked()) {
+    FONT_SIZE += FONT_STEP;
+    clickedButton = true;
+    textSize(FONT_SIZE);
+    windowResized();
+  }
+
+  if (decreaseFont.Clicked()) {
+    FONT_SIZE -= FONT_STEP;
+    FONT_SIZE = max(5, FONT_SIZE);
+    clickedButton = true;
+    textSize(FONT_SIZE);
+    windowResized();
   }
 
   if (!clickedButton) {
@@ -266,6 +290,7 @@ void keyPressed() {
     PAUSED = false;
   }
   if (key == 'o') {
+    println("Pressed O");
     SelectFile();
   }
   if (keyCode == 38) {
@@ -307,7 +332,7 @@ void windowResized() {
 
   //Update all methods, not just active one
   for (int i = 0; i < methods.length; ++i) {
-    methods[i].Resize(width*0.1, 0, width*0.9, height*0.9);
+    methods[i].Resize(width*0.1, 0, width*0.9, height*0.9, FONT_SIZE);
   }
   if (singleLineControl != null) {
     singleLineControl.Resize(0, 0, width*leftControlSize, height*(1.0-bottomControlSize));

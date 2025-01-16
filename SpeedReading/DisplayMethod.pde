@@ -10,7 +10,7 @@ abstract class DisplayMethod {
   abstract void GetNextChunk();
   abstract void Back();
   abstract void Forward();
-  abstract void Resize(float newX, float newY, float newW, float newH);
+  abstract void Resize(float newX, float newY, float newW, float newH, int newFontSize);
   abstract void LimitTextToDisplayArea();
 
   ArrayList<String> document;

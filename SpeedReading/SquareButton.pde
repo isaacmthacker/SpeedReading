@@ -1,8 +1,9 @@
 abstract class SquareButton extends Button {
   float w, h;
   void Display() {
+    //x, y represent the center of the square
+    //Draw accordingly
     rect(x-w/2.0, y-h/2.0, w, h);
-    ellipse(x, y, 5, 5);
   }
   abstract void OnClick();
   boolean Clicked() {

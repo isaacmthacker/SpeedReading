@@ -2,8 +2,7 @@ public class CrazyLine extends DisplayMethod {
 
   CrazyLine(ArrayList<String> doc, float xx, float yy, float ww, float hh, int fS) {
     document = doc;
-    Resize(xx, yy, ww, hh);
-    SetFontSize(fS);
+    Resize(xx, yy, ww, hh, fS);
     textSize(fontSize);
 
     curLine = "";
@@ -12,12 +11,13 @@ public class CrazyLine extends DisplayMethod {
     history.push(0);
   }
 
-  void Resize(float newX, float newY, float newW, float newH) {
+  void Resize(float newX, float newY, float newW, float newH, int newFontSize) {
     minX = newX;
     minY = newY;
     w = newW;
     h = newH;
     idealLength = w * 0.75;
+    SetFontSize(newFontSize);
   }
 
   void Display() {
