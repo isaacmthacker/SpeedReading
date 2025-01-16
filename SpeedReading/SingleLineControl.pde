@@ -1,15 +1,14 @@
 class SingleLineControl extends DisplayControl {
-  
-  float x, y, wid, hei;
-  
-  public SingleLineControl(float xx, float yy, float w, float h) {
-    x = xx;
-    y = yy;
-    wid = w;
-    hei = h;
+
+  public SingleLineControl(float xx, float yy, float ww, float hh) {
+    Resize(xx, yy, ww, hh);
   }
   void Display() {
-    rect(x, y, wid, hei);
+    rect(x, y, w, h);
+  }
+
+  void Resize(float xx, float yy, float ww, float hh) {
+    super.Resize(xx, yy, ww, hh);
   }
   //speed
   //font size

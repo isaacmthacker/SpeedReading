@@ -22,7 +22,7 @@ final String PAUSED_TEXT = "Paused";
 
 boolean TIMER_ENABLED = true;
 
-final float leftControlSize = 0.1;
+final float leftControlSize = 0.05;
 final float bottomControlSize = 0.1;
 
 
@@ -40,7 +40,7 @@ SingleLineControl singleLineControl;
 
 ArrayList<Button> buttons;
 
-String fileName = "place-text-here.txt";
+String fileName = "";
 
 //=====================================================================
 //todo: see if this needs to be in main or can be in a class
@@ -71,7 +71,7 @@ void DrawControls() {
   text(timerStatusText, width/2.0 - textWidth(timerStatusText)/2.0, height-(height*bottomControlSize)/2.0);
 
   //Bottom display control
-  rect(width*leftControlSize, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), height);
+  rect(0, height-(height*bottomControlSize), width, height*bottomControlSize);
   //left display control
   displayControl.Display();
 
@@ -137,42 +137,47 @@ void CalculateDrawingTime() {
   frameUpdate = int(float(FPS) * UpdateTime);
 }
 
-
-void DrawErrorScreen() {
-  String errorText = "Could not find file";
-  textSize(12);
-  background(255);
-  fill(0);
-  text(errorText, 0, height/2.0);
-  text("\"place-text-here.txt\" expected to be in this folder:", 0, height/2.0 + 30);
-  text(System.getProperty("user.dir"), 0, height/2.0 + 60);
+void SelectFile() {
+  selectInput("Choose a text file to open", "OpenSelectedFile");
 }
 
 //==============================================================================
 //Initial Window setup
 void setup() {
-  size(800, 800);
+  PAUSED = false;
+  TIMER_ENABLED = true;
+  size(1000, 800);
   windowResizable(true);
   frameRate(FPS);
   CalculateDrawingTime();
+
+  int fontSize = 30;
+
+  PFont myFont;
+  myFont = createFont("opendyslexic-0.910.12-rc2-2019.10.17//OpenDyslexic-Regular.otf", fontSize);
+  if (myFont == null) {
+    myFont = createFont("Arial", fontSize);
+  }
+  //Use imported font or Arial
+  //If we couldn't import Arial, just don't try to set the font
+  if (myFont != null) {
+    textFont(myFont);
+  }
+
+  //Open file selector if no file
+  if (fileName == "") {
+    SelectFile();
+  }
   reader = createReader(fileName);
-  //TODO: Add error message if cannot open file
+  //Failed to open file
   if (reader == null) {
-    DrawErrorScreen();
-    noLoop();
+    SelectFileScreen selectFileScreen = new SelectFileScreen();
+    display = selectFileScreen;
+    methods = new DisplayMethod[] { selectFileScreen };
   } else {
     ArrayList<String> document = ReadFile();
     println("Total words in document: " + document.size());
 
-    int fontSize = 30;
-    PFont myFont = createFont("opendyslexic-0.910.12-rc2-2019.10.17//OpenDyslexic-Regular.otf", 30);
-    textFont(myFont);
-
-    SingleLineControl singleLineControl = new SingleLineControl(0, 0, width*leftControlSize, height);
-    displayControl = singleLineControl;
-
-    //todo: put into function
-    buttons = new ArrayList<Button>();
 
     //todo: put into function
     crazyLine = new CrazyLine(document, width*leftControlSize, 0, width*(1.0-leftControlSize), height*(1.0-bottomControlSize), fontSize);
@@ -183,6 +188,11 @@ void setup() {
 
     display = crazyLine;
   }
+
+  buttons = new ArrayList<Button>();
+
+  singleLineControl = new SingleLineControl(0, 0, width*leftControlSize, height*(1.0-bottomControlSize));
+  displayControl = singleLineControl;
 }
 
 //Draw loop
@@ -199,7 +209,7 @@ void draw() {
   }
   //Run the display method
   display.Display();
-  text("Delay: " + UpdateTime + "s", width*(leftControlSize/2.0), height-(height*bottomControlSize)/2.0);
+  text("Delay: " + UpdateTime + "s", 0, height-(height*bottomControlSize)/2.0);
 
   String modeStr = "Mode: " + methodIndex;
   text(modeStr, width - textWidth(modeStr), height-(height*bottomControlSize)/2.0);
@@ -255,8 +265,8 @@ void keyPressed() {
     TIMER_ENABLED = !TIMER_ENABLED;
     PAUSED = false;
   }
-  if(key == 'o') {
-    selectInput("Choose a text file to open", "OpenSelectedFile");
+  if (key == 'o') {
+    SelectFile();
   }
   if (keyCode == 38) {
     //UP
@@ -298,5 +308,8 @@ void windowResized() {
   //Update all methods, not just active one
   for (int i = 0; i < methods.length; ++i) {
     methods[i].Resize(width*0.1, 0, width*0.9, height*0.9);
+  }
+  if (singleLineControl != null) {
+    singleLineControl.Resize(0, 0, width*leftControlSize, height*(1.0-bottomControlSize));
   }
 }
