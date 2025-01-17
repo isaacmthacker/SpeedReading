@@ -38,6 +38,7 @@ DisplayControl displayControl;
 SingleLineControl singleLineControl;
 
 
+float buttonSize = width*0.05;
 ArrayList<Button> buttons;
 
 FontChangeSquareButton increaseFont;
@@ -192,10 +193,15 @@ void setup() {
   }
 
   buttons = new ArrayList<Button>();
-  float buttonSize = width*0.05;
-  println(buttonSize);
+  buttonSize = width*0.05;
   increaseFont = new FontChangeSquareButton(buttonSize/2.0, height/2.0 - buttonSize, buttonSize/2.0, buttonSize/2.0, true);
   decreaseFont = new FontChangeSquareButton(buttonSize/2.0, height/2.0 + buttonSize, buttonSize/2.0, buttonSize/2.0, false);
+
+  //Prevent controls if no document has been read in
+  if (reader == null) {
+    increaseFont.Disable();
+    decreaseFont.Disable();
+  }
 
   singleLineControl = new SingleLineControl(0, 0, width*leftControlSize, height*(1.0-bottomControlSize));
   displayControl = singleLineControl;
@@ -215,6 +221,7 @@ void draw() {
   }
   //Run the display method
   display.Display();
+  //todo: Add ability to enable / disable to only display once a file has been read in
   text("Delay: " + UpdateTime + "s", 0, height-(height*bottomControlSize)/2.0 + FONT_SIZE/2.0);
 
   String modeStr = "Mode: " + methodIndex;
@@ -337,4 +344,8 @@ void windowResized() {
   if (singleLineControl != null) {
     singleLineControl.Resize(0, 0, width*leftControlSize, height*(1.0-bottomControlSize));
   }
+
+  buttonSize = width*0.05;
+  increaseFont.Resize(buttonSize/2.0, height/2.0 - buttonSize, buttonSize/2.0, buttonSize/2.0);
+  decreaseFont.Resize(buttonSize/2.0, height/2.0 + buttonSize, buttonSize/2.0, buttonSize/2.0);
 }
