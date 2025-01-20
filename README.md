@@ -19,6 +19,8 @@ Down Arrow: Decrease delay between text changes
 
 Space: Pause / Resume
 
+Left / Right Arrow: Get previous / next chunk of text
+
 Left Mouse Click: Pause / Resume OR Advance text
 
 If the timer is running, it means the text will automatically advance
